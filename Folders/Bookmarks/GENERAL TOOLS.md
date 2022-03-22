@@ -1,0 +1,108 @@
+# ► General Tools
+
+-   **[Multi-Tool Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_tool_sites)** - _Sites with Multiple Tools_
+-   **[MiXLab](https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLab.ipynb)** - _Multi-Tool Google Colab_
+-   **[Calculator Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_calculator_sites)** - _Multi-Calculator Sites_
+-   **[Versus](https://versus.com/)**, [rtings](https://www.rtings.com/), [SocialCompare](https://socialcompare.com/en) or [Diffen](https://www.diffen.com/) - _Compare Anything_
+-   **[Mind Mapping](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mind_mapping)** - _Organize Ideas & Projects_
+-   **[RepairWiki](https://repair.wiki/w/Repair_Wiki)** - _Device Repair Articles_
+-   **[TuboTax Sucks Ass](http://turbotaxsucksass.net/)** or [FreeTaxUSA](https://www.freetaxusa.com/) - _File Taxes for Free_
+-   **[BeMyEyes](https://www.bemyeyes.com/)** - _Assist the Visually Impaired_
+-   **[Worldometer](https://www.worldometers.info/)**, [Internet World Stats](https://www.internetworldstats.com/), [WorldBank](https://databank.worldbank.org/) or [UN Data](https://data.un.org/) - _World Data & Statistics_
+-   **[Our World in Data](http://ourworldindata.org/)** - _World Problem Database_
+-   [Global Consciousness Project](https://gcpdot.com/) - _Real-Time Global Consciousness Data_
+-   [Internet Live Stats](https://www.internetlivestats.com/) - _Live Internet Statistics_
+-   [Statista](https://www.statista.com/) - _Market Statistics_
+-   [OEC](https://oec.world/en) - _International Trade Data Visualization_
+-   [World Births and Deaths](https://worldbirthsanddeaths.com/) - _World Birth / Death Rates Visualization_
+-   [Gun Violence Archive](https://www.gunviolencearchive.org/) - _Gun Violence Information Database_
+-   [RecoRank](https://recorank.com/) - _Tech Review Aggregator_
+-   [Reddit Favorites](https://redditfavorites.com/) - _Product & Service Recommendations_
+-   [LibreOps](https://libreops.cc/) or [Luigi Auriemma](https://aluigi.altervista.org/) - _Open Source Tools_
+-   [Dashboard](https://zzanehip.github.io/Dashboard/) - _Mac-Style Dashboard Widget_
+-   [Experiments with Google](https://experiments.withgoogle.com/collection/ai) - _AI Experiments / Tools_
+-   [Generative Tools](https://docs.google.com/document/d/1N57oAF7j9SuHcy5zg2VZWhttLwR_uEldeMr-VKzlVIQ/) - _Generative Tool Index_
+-   [Barcode Reader](https://online-barcode-reader.inliteresearch.com/) or [ZXing Decoder](https://zxing.org/w/decode.jspx) - _Online Barcode Reader_
+-   [The Measure Of Things](https://www.bluebulbprojects.com/measureofthings/default.php) - _Comparative / Relative Quantity Measurements_
+-   [Compare Sizes](https://comparesizes.com/) - _Size Comparison Tool_
+-   [hikaku-sitatter](https://hikaku-sitatter.com/en/) - _Height Comparison Tool_
+-   [Paper Sizes](https://papersizes.io/) - _Common Paper Sizes_
+-   [Qlock](http://www.qlock.com/), [TheClockApp](https://theclockapp.vercel.app/), [TimeAndDate](https://www.timeanddate.com/) or [EveryTime Zone](https://everytimezone.com/) - _World Clock_
+-   [FlipClockWeb](https://flipclockweb.netlify.app/) - _Fullscreen Clock_
+-   [Epoch Converter](https://www.epochconverter.com/) - _Epoch & Unix Timestamp Conversion Tools_
+-   [How Many Days Since](http://howmanydayssince.net/) or [How Many Days Until](https://howmanydaysuntil.co/) - _Calculate Days Since a Date_
+-   [e.gg Timer](https://e.ggtimer.com/) - _Timer_
+-   [SetAlarmClock](https://setalarmclock.net/) - _Online Alarm Clock_
+-   [Dashana](https://dashana.com/), [DataWrapper](https://www.datawrapper.de/), [RAWgraphs](https://app.rawgraphs.io/) / [GitHub](https://github.com/rawgraphs/rawgraphs-app) or [ParaView](https://github.com/Kitware/ParaView) - _Data Visualization Tool_
+-   [Grocy](https://grocy.info/) - _Grocery / Household Management Tool_
+-   [Volmarg](https://volmarg.github.io/) - _Personal Management Tool_
+-   [Collaboation Platforms](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_collaboration_platforms) - _Project Managment Tools_
+-   [GanttProject](https://www.ganttproject.biz/) - _Project Scheduling App_
+-   [To-Do Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_note_taking_.2F_to_do_apps) - _To-Do List Apps_
+-   [Creative Commons](https://creativecommons.org/) - _Creative Commons Licenses_
+-   [ievaphone](https://ievaphone.com/), [blacktel](https://www.blacktel.io/), [Citrustel](https://www.citrustel.com/) or [PopTox](https://www.poptox.com/) - _Make Free Phone Calls_
+-   [Free-lookup](https://www.free-lookup.net/) - _Phone # Lookup_
+-   [tuxi](https://github.com/Bugswriter/tuxi) - _Question & Answer CLI_
+-   [Valuta EX](https://valuta.exchange/) - _Currency Converter_
+-   [CamelCamelCamel](https://camelcamelcamel.com/) - _Amazon Price Tracker_
+-   [WorldTaxiMeter](https://www.worldtaximeter.com/) - _Taxi Fare Calculator_
+-   [GasPrices](https://gasprices.aaa.com/) - _Gas Price Calculator_
+-   [DiaperGrid](https://diapergrid.com/) - _Compare Diaper Prices_
+-   [StockInformer](https://www.stockinformer.com/) - _Product Stock Notifications_
+-   [Solving Resources](https://the-unwelcome.github.io/resources/solving_resources.html) - _Code & Puzzle Solving Resources_
+-   [Sleepyti.me](https://sleepyti.me/) or [Sleeptyme](https://sleeptyme.ca/) - _Bedtime Calculator_
+-   [The Sustainabilitist](https://sustainabilitist.com/) - _Sustainability Resource Hub_
+-   [ActivityWatch](https://activitywatch.net/) - _Automatically Track Device Activity / [Extensions](https://github.com/ActivityWatch/aw-watcher-web)_
+-   [Cold Turkey](https://getcoldturkey.com/), [PomoFocus](https://pomofocus.io/) or [Take a Five](http://www.takeafive.com/) - _Site Blocker / Productivity Booster_
+-   [Tempus](https://tempus.keziahmoselle.fr/), [ManicTime](https://www.manictime.com/), [Clockify](https://clockify.me/), [Pro Modoro](https://pro-modoro.xyz/) or [Super-Productivity](https://github.com/johannesjo/super-productivity) - _Productivity Managers_
+-   [DogSheep](https://dogsheep.github.io/) - _Personal Analytics Tools_
+-   [Stretchly](https://hovancik.net/stretchly), [WorkRave](https://workrave.org/) or [Mindfulness at the Computer](https://mindfulness-at-the-computer.gitlab.io/) - _Break Reminders_
+-   [DoINeedAJacket](https://doineedajacket.com/weather/), [DogeWeather](http://dogeweather.com/), [ForcastAdvisor](https://www.forecastadvisor.com/) or [wttr](https://wttr.in/) - _Simple Weather Reports_
+-   [World Weather Online](https://www.worldweatheronline.com/) - _Historical Weather Reports_
+-   [Cricket Convert](https://www.weather.gov/epz/wxcalc_cricketconvert) - _Estimate Temperature via Cricket Chirps_
+-   [Elevation](https://tikolu.net/elevation/) - _Find Current Elevation_
+-   [BreezoMeter](https://www.breezometer.com/) - _Air Quality Reports_
+-   [RTL-SDR](https://gist.github.com/fasiha/c123a9c6b6c78df7597bb45e0fed808f) - _DIY FAA & EASA Satellite Feeds / Transponder_
+-   [Cool Generator](https://www.coolgenerator.com/), [Random-Ize](https://random-ize.com/), [RANDOM](https://www.random.org/) or [Random Lists](https://www.randomlists.com/) - _Generate Anything_
+-   [Score Count](https://scorecount.com/) - _Online Sports Scoreboards_
+-   [Wheel Decide](https://wheeldecide.com/) or [Wheel of Names](https://wheelofnames.com/) - _Wheel Randomizer_
+-   [PollCode](https://pollcode.com/), [YoPolls](https://www.yopolls.com/), [minipoll](https://minipoll.co/), [PickVote](https://pickvote.web.app/) or [poal.me](https://poal.me/) - _Poll Creator_
+-   [sli.do](https://www.sli.do/), [Feedbackr](https://www.feedbackr.io/) or [Trypingo](http://trypingo.com/) - _Live Polling Apps_
+-   [Event Rally](https://rallly.co/) - _Collaborate and Vote on a Date to Host / [GitHub](https://github.com/lukevella/Rallly)_
+-   [Diff Checker](https://www.diffchecker.com/) - _Check Differences in Text, Images, PDFs or Files_
+-   [Find Your Place](https://where-is-this.com/) - _Find Places from Pictures_
+-   [IRuler](https://iruler.net/) - _Turn your device into a Ruler_  
+
+-   [Awesome Forensics](https://github.com/cugu/awesome-forensics) or [Awesome Forensics Tools](https://github.com/ivbeg/awesome-forensicstools) - _Digital Forensics Tools_  
+
+-   [Chaotic Shiny](http://chaoticshiny.com/) - _Fantasy Writing Generator_
+-   [GitKraken Timeline](https://timelines.gitkraken.com/), [Timeline JS](https://timeline.knightlab.com/) or [Time.Graphics](https://time.graphics/) - _Timeline Creation Tool_
+-   [SwimLanes](https://swimlanes.io/) or [Diagrams.net](https://www.diagrams.net/) - _Create Diagrams_
+-   [WhatDog](https://www.bing.com/visualsearch/Microsoft/WhatDog) - _Dog Breed Identification Tool_
+-   [tusk](https://tusk.page/) - _Give & Receive Anonymous Feedback_
+-   [Gramps](https://gramps-project.org/blog/) - _Genealogy Research Tool_
+-   [DreamForth](http://www.dreamforth.com/) - _Dream Interpretations_
+-   [Delphi](https://delphi.allenai.org/) - _Morality Judgement A.I._
+-   [ThistoThat](http://www.thistothat.com/) - _How to Glue Anything to Anything_
+-   [My Car Makes Noise](http://mycarmakesnoise.com/) - _Diagnose Car Problems via Sounds_
+-   [PlateRecognizer](http://platerecognizer.com/) - _License Plate Recognition_
+-   [Safe Substance](https://safesubstance.com/) - _Drug Combination Info / Harm Reduction_
+-   [Stolen Camera Finder](https://www.stolencamerafinder.com/) - _Find Stolen Cameras_
+-   [Parcelsapp](https://parcelsapp.com/en/) or [17Track](https://www.17track.net/en) \- _International Package Tracking_
+-   [Sweet Home 3D](http://www.sweethome3d.com/) - _Interior Design App_
+-   [ZoomIt](https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit), [Presentator](https://presentator.io/), [Carnac](http://code52.org/carnac/), [Presen](https://presen-vid.com/), [mentimeter](https://www.mentimeter.com/), [beautiful.ai](https://www.beautiful.ai/), [Fusuma](https://hiroppy.github.io/fusuma/), [Pitch](https://pitch.com/), [Deckdeckgo](https://deckdeckgo.com/), [Webslides](https://webslides.tv/), [Desk](https://www.animaker.com/deck) or [Slides](https://slides.com/) - _Presentation Tool_
+-   [Slides](http://maaslalani.com/slides/) - _Terminal Presentation Tool / [GitHub](https://github.com/maaslalani/slides)_
+-   [SlidesGo](https://slidesgo.com/), [Showeet](https://www.showeet.com/), [Slides Carnival](https://www.slidescarnival.com/), [SlideShareDownloader](https://slidesharedownloader.ngelmat.net/), [PresentationGO](https://www.presentationgo.com/), [ensa.io](https://ensa.io/) or [ThePOPP](https://thepopp.com/) - _Presentation Templates_
+-   [TemplateMaker](https://www.templatemaker.nl/) - _Package & Box Templates_
+-   [WebQR](https://www.webqr.com/) - _QR Code Scanner_
+-   [QR Tiger](https://www.qrcode-tiger.com/), [QRCodeMonkey](https://www.qrcode-monkey.com/), [Logaster](https://www.logaster.com/qr-code-generator/) or [QR Code Generator](https://www.the-qrcode-generator.com/) - _QR Code Generator_
+-   [QRpicture](https://www.qrpicture.com/) - _Picture to QR Code Converter_
+-   [Avaluers](https://avaluers.org/) or [/r/WhatsThisWorth](https://www.reddit.com/r/whatsthisworth/) - _Online Appraisals_
+-   [findhelp.org](https://www.findhelp.org/) - _Find Assistive Programs_
+-   [/r/Assistance](https://www.reddit.com/r/Assistance/), [/r/borrow](https://www.reddit.com/r/borrow/), [/r/Random\_Acts\_Of\_Pizza](https://www.reddit.com/r/Random_Acts_Of_Pizza/) or [/r/Homeless](https://www.reddit.com/r/homeless/) - _Assistance & Donation Subreddits_
+-   [Helpmap](https://helpmap.io/) - _Nonprofit Donation Map_
+-   [Faces of Suicide](https://www.facesofsuicide.com/) - _Suicide Victim Remembrance & Donations_
+-   [/u/elkatiuskas' Resource List](https://redd.it/phrcrn) - _Abortion Resource Index_
+-   [Erin's Informed Consent HRT Map](https://redd.it/d6p05q) - _Informed Consent HRT Clinics_
+
+___

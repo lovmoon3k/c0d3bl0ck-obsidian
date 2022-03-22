@@ -1,0 +1,70 @@
+## ▷ URL Tools
+
+-   **[Flagfox](https://flagfox.wordpress.com/)** - _Displays Country's Flag on Sites / [Adds Many URL Tools](https://i.imgur.com/zDaLZxC.png)_
+-   **[URL Unshorteners](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_url_unshorteners)** - _Check where a shortened URL leads to_
+-   **[Wiki Shortener](https://meta.wikimedia.org/wiki/Special:UrlShortener)** - _Wiki URL Shortener_
+-   **[git.io](https://git.io/)** - _GitHub URL Shortener_
+-   **[Check if Sites are Down](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_down_site_checkers)** - _Check if a site is down for just you or everyone_
+-   **[Universal Encoding Tool](https://unenc.com/)** - _Encoding / Decoding Tools_
+-   **[Base64 Decode](https://www.base64decode.org/) / [Encode](https://www.base64encode.org/)**, [Base64 E/D](https://apps.maximelafarie.com/base64/) or [URL Encode/Decode](https://www.url-encode-decode.com/) - _Base64 Encode and Decode / [Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_base64_decode_extensions)_
+-   **[t.ly](https://t.ly/)** - `t.ly/qqH6`
+-   **[is.gd](https://www.is.gd/)** - `is.gd/9dkISG`
+-   [v.gd](https://v.gd/) - `v.gd/Gj8oLR`
+-   [soo.gd](https://soo.gd/) - `soo.gd/YCtV`
+-   [gg.gg](http://gg.gg/) - `gg.gg/oggp7`
+-   [Teknik](https://shorten.teknik.io/) - `tknk.io/GH5X`
+-   [Linkify](https://creator.linkify.cz/) - `linkify.cz/1a0O`
+-   [bitly](https://bitly.com/) - `bit.ly/3cmqPIu` / _[Reveal URL](https://i.imgur.com/4LvGFXe.png)_
+-   [TinyUrl](https://tinyurl.com/) - `tinyurl.com/twgf2ks` / _[Reveal URL](https://i.imgur.com/DklVFU7.png)_
+-   [bit.do](https://bit.do/) - `bit.do/fNj7S`
+-   [id](https://home.s.id/) - `s.id/EQBsg`
+-   [3c5](https://3c5.com/) - `3c5.com/jWscV`
+-   [Tiny.cc](https://tiny.cc/) - `tiny.cc/akl1mz`
+-   [IPKill](https://ipkill.org/) - `ipkill.org/3yw`
+-   [Shrunken](https://www.shrunken.com/) - `shrunken.com/a72de`
+-   [Scur](https://scur.link/) - `scur.link/pLyF`
+-   [shrtcode](https://app.shrtco.de/) - `shrtco.de/lsoWP`
+-   [Rebrandly](https://www.rebrandly.com/) - `rb.gy/4m25hq` / [Extension](https://mybrowseraddon.com/g-url-shortener.html)
+-   [u.nu](https://u.nu/) - `u.nu/5nhzi`
+-   [Kutt](https://kutt.it/) - `kutt.it/sQnBLz`
+-   [offf.to](https://offf.to/) - _Short Links via Browser_
+-   [Anonymiz](https://anonymiz.com/shorten-url) - _Anonymous URLs_ - `anonymiz.com/vwiq`
+-   [Anon.to](https://anon.to/) - _Anonymous URLs_ - `anon.to/7SWqpG`
+-   [Thinfi](https://thinfi.com/) - _Password protect a short URL_ - `thinfi.com/q8aw`
+-   [ShadyURL](http://www.shadyurl.com/) - _Make Suspicious Looking URLs_ - `5z8.info/warez_zozu`
+-   [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - _Telegram Link Shortener Bot_
+-   [suri](https://github.com/jstayton/suri) or [mpngin](https://github.com/thewalkingtoast/mpngin) - _Self-Deployed Link Shortener_
+-   [shrtcode](https://shrtco.de/tools/) - _Multiple URL Tools_
+-   [Open Bulk URL](https://openbulkurl.com/), [RapidLinkr](https://rapidlinkr.com/) or [OpenAllURLs](https://www.openallurls.com/) - _URL Bulk Opener_
+-   [ListURLs](https://listurls.com/) - _URL List Generator_
+-   [CheckServer](https://check-host.net/), [UptimeRobot](https://uptimerobot.com/) or [24x7](https://www.site24x7.com/tools.html) - _Site Monitoring Tools_
+-   [CrowdTangle](https://apps.crowdtangle.com/chrome-extension) - _Check Where Links Have Been Shared_
+-   [Harpoon](https://hakin9.org/harpoon-osint-cli-tool/), [MxToolbox](https://mxtoolbox.com/DNSLookup.aspx), [Whois Lookup](https://whois.domaintools.com/) or [BillCipher](https://github.com/84KaliPleXon3/BillCipher) - _Domain Info Lookup Tool_
+-   [Redirect Detective](https://redirectdetective.com/) - _URL Redirect Checker_
+-   [Dereferer](https://dereferer.me/) - _Derefer / Anonymize Links_
+-   [Link-Lock](https://rekulous.github.io/link-lock/) - _Encrypt & Decrypt Links with Passwords_
+-   [Linkify Plus Plus](https://greasyfork.org/en/scripts/4255-linkify-plus-plus) - _[Core](https://github.com/eight04/linkify-plus-plus-core) / Turn Plain txt URL's into Links_
+-   [Perma](https://perma.cc/) - _Permanent URLs_
+-   [Temporary-Url](https://www.temporary-url.com/) - _Temporary URLs / QR Codes_
+-   [scrt.link](http://scrt.link/) - _Single Use Links_
+-   [noAMP](https://noamp.link/) - _Non-AMP version of any page_
+-   [QR Code Generator](https://www.qr-code-generator.com/) or [link-to-qr](https://link-to-qr.com/) - _QR Code Generator For URLs / Text_
+-   [AnyImage](https://anyimage.io/) - _Create Social Card Links_
+-   [Flashify](https://github.com/GodsMoon/Flashify) - _Open URL in Any Browser_
+-   [urlportal](https://raw.githubusercontent.com/gotbletu/shownotes/master/urlportal.sh) - _Custom URL Handler_
+-   [Xenu-Link](http://home.snafu.de/tilman/xenulink.html), [Cyotek-Webcopy](https://www.cyotek.com/cyotek-webcopy), [Dead Link Checker](https://www.deadlinkchecker.com/) or [Broken Link Checker](https://brokenlinkcheck.com/broken-links.php) - _Broken Link Checker_
+-   [W.A.R. Links Checker Premium](http://usa.x10host.com/mybb/showthread.php?tid=88) - _Checks If File Links are Alive or Not_
+-   [SafeLinking](https://safelinking.net/), [Gdrivez](https://www.gdrivez.xyz/), [UpToLink](https://uptolink1.com/), [TSU.one](https://tsu.one/), [externallink](https://externallink.xyz/), [linkspop](https://linkspop.info/), [BrBushare](https://brbushare.xyz/) or [ShortLinkto](https://shortlinkto.top/) - _Link Protectors_
+-   [WhoIsRequest](https://whoisrequest.com/) or [Securrity Whoiz](http://www.securrity.ru/whoiz.html) - _Domain Information Lookup_
+-   [Awesome Piracy Bot](https://github.com/Igglybuff/awesome-piracy-bot) - _URL Scraping Tool_
+-   [NSLookup](https://www.nslookup.io/) or [dog](https://github.com/ogham/dog) - _DNS Information Tool_
+-   [Site Worth Traffic](https://www.siteworthtraffic.com/) - _Calculate Website Worth_
+-   [XML-Sitemaps](https://www.xml-sitemaps.com/) - _Sitemap Creator_
+-   [CarbonDates](http://carbondate.cs.odu.edu/) - _Check Site Creation Date_
+-   [Hosting Checker](https://hostingchecker.com/) - _Site Host Check_
+-   [AtSameIP](https://atsameip.intercode.ca/) - _Find All Sites Hosted by Same IP_
+-   [SubDomainizer](https://github.com/nsonaniya2010/SubDomainizer), [Search Console](https://search.google.com/search-console/), [subsurface](https://github.com/CellEight/subsurface) or [SubdomainFinder](https://subdomainfinder.c99.nl/) - _Find Hidden Subdomains_
+-   [pyfuzz](https://github.com/AyoobAli/pyfuzz) - _URL Fuzzing Tool_
+-   [Backlink Tool](https://backlinktool.io/) or [Index Kings](http://www.indexkings.com/) - _URL Indexer_
+-   [Blocked](https://www.blocked.org.uk/) - _UK ISP Site Blocking Test_
+-   [a tree of inaction](https://treeofinaction.com/) - _Linktr.ee Aggregator Duplicate Check_

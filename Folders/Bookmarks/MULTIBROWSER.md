@@ -1,0 +1,134 @@
+# ► Extensions
+
+## ▷ Multi Browser
+
+-   **[Adblocking](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_adblocking_extensions) / [Privacy](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy#wiki_.25B7_privacy_extensions) Extensions**
+-   **[add0n](https://add0n.com/) or [MyBrowserAddon](https://mybrowseraddon.com/)** - _Open-Source Extension Index_
+-   **[Buster](https://github.com/dessant/buster)** - _Auto Captcha Solver_
+-   **[Privacy Pass](https://privacypass.github.io/)** - _Skip Captchas_
+-   **[Dark Reader](https://darkreader.org/)**, [Dark Background and Light Text](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_dark_background_and_light_text), [Midnight Lizard](https://midnight-lizard.org/), [Custom Dark Mode](https://mybrowseraddon.com/custom-dark-mode.html) or [222](https://github.com/x08d/222) - _Dark Mode_
+-   [Into The Black Hole](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_into_the_black_hole) - _Dark Mode Browser Theme_
+-   [Vimium](https://vimium.github.io/) / [GitHub](https://github.com/philc/vimium), [Surfingkeys](https://github.com/brookhong/Surfingkeys), [Tridactyl](https://tridactyl.xyz/), [VimC](https://github.com/1995eaton/chromium-vim), [Web Search Navigator](https://github.com/infokiller/web-search-navigator) or [Vimium C](https://github.com/gdh1995/vimium-c) - _Keyboard Shortcuts_
+-   [Snap Links Plus](https://cpriest.github.io/SnapLinksPlus/) or [Link Clump](https://github.com/benblack86/linkclump) - _Select & Open Multiple Links at Once_
+-   [Glitter Drag](https://github.com/harytfw/glitterdrag) - _Adds Actions on Dragging_
+-   [ScrollAnywhere](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_scroll_anywhere) - _Improves Scrolling Functionality_
+-   [Scroll to Top](https://mybrowseraddon.com/scroll-to-top.html) - _Scroll to Top Button on all Sites_
+-   [Customizable New Tab Page](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_customizable_new_tab_page) - _Customize New Tab Page_
+-   [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - _Quickly Switch between Current & Recently Closed Tabs_
+-   [Always Right](https://github.com/autonome/Always-Right/) - _Always Open New Tabs to the Right_
+-   [Bookmark Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_bookmark_managers) - _Manage & Organize Bookmarks_
+-   [Saka](https://saka.io/) - _Tab, History & Bookmark Search_
+-   [Auto-Sort Bookmarks](https://github.com/eric-bixby/auto-sort-bookmarks-webext) - _Sort Bookmarks by Multiple Criteria_
+-   [Bookmark Search Plus 2](https://github.com/aaFn/Bookmark-search-plus-2) - _Search Bookmarks_
+-   [WebMemex](https://blog.webmemex.org/) - _Organize & Store Webpages_
+-   [Bandwidth Hero](https://bandwidth-hero.com/) - _Reduce Browsing Data Usage_
+-   [Save-Data: On](https://www.daniel.priv.no/web-extensions/save-data.html) - _Auto-Enable Data Savings Mode_
+-   [Auto Tab Discard](https://add0n.com/tab-discard.html), [UnloadTabs](https://github.com/NiklasGollenstede/unload-tabs), [The Marvellous Suspender](https://gioxx.org/chromeaddons/the-marvellous-suspender/) or [The Great Suspender](https://github.com/aciidic/thegreatsuspender-notrack) - _Discard Inactive Tabs to Reduce Memory / CPU Usage_
+-   [Snooze Tabs](https://github.com/bwinton/SnoozeTabs) - _Temporarily Snooze Tabs_
+-   [Tab Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_tab_managers) - _Group & Manage Browser Tabs_
+-   [Tab for a Cause](https://tab.gladly.io/) - _New Tabs = Charity Donation_
+-   [Panic Button](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_panic_button) - _Quickly Close All Tabs_
+-   [Browser Ebook Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_browser_ebook_readers) - _Read Books in Browser_
+-   [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web), [Simple Translate](https://simple-translate.sienori.com/), [Saladict](https://saladict.crimx.com/) [S3Translator](http://www.s3blog.org/s3translator.html), [DeepL Translator](https://chrislo.ca/deepl/) or [ImTranslator](https://imtranslator.net/) - _Translator_
+-   [Dictionaries](https://github.com/pnlpal/dictionaries), [phlinx](https://phlinx.com/) or [Definer](https://lumetrium.com/definer/) - _Popup Dictionary_
+-   [PantherBar](https://pantherbar-app.com/) - _Context Search_
+-   [Magnifying Glass](https://mybrowseraddon.com/magnifying-glass.html) - _Magnify Webpages_
+-   [Zoom WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_zoom_we) or [Custom Page Zoom](https://mybrowseraddon.com/custom-page-zoom.html) - _Improves Zoom Functionality_
+-   [Print Edit WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_print_edit_we) - _Edit Pages to Make them Printable_
+-   [Grammarly](https://www.grammarly.com/) - _Grammar Checker / [Free Premium](https://redd.it/kfncju)_
+-   [Mouse Gestures](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_mouse_gestures) - _Control Browser via Gestures_
+-   [PageZipper](https://www.printwhatyoulike.com/pagezipper) or [AutoPagerize](http://autopagerize.net/) - _Merges a Sites "Next" Pages_
+-   [Redirector](https://einaregilsson.com/redirector/) - _Page Redirector_
+-   [DownThemAll](https://www.downthemall.org/) or [Turbo Download Manager](https://add0n.com/turbo-download-manager-v2.html) / [GitHub](https://github.com/inbasic/turbo-download-manager-v2/) - _File Download Managers_
+-   [Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multi_site_video_downloaders) - _Video Download Managers_
+-   [Vimeomate](https://vimeomate.com/) - _Vimeo Video Downloader_
+-   [Turn Off the Lights](https://www.turnoffthelights.com/) or [Theater Mode](https://mybrowseraddon.com/theater-mode.html) - _Play Videos in Theater Mode_
+-   [GlobalSpeed](https://github.com/polywock/globalSpeed) - _Set Default Video / Audio Speed_
+-   [Audio Recorder](https://mybrowseraddon.com/audio-recorder.html) - _Audio Recorder_
+-   [Mute Tab](https://mybrowseraddon.com/mute-tab.html) - _Easily Mute All Tabs_
+-   [Web-Scrobbler](https://web-scrobbler.com/) - _Scrobble with Last.fm, Libre.fm, ect._
+-   [Form History Control](https://stephanmahieu.github.io/fhc-home/) or [Simple Form Fill](https://github.com/sblask/webextension-simple-form-fill) - _Formfiller Manager_
+-   [History Master](https://github.com/jiacai2050/history-master) - _Vizualize & Sync Browser History_
+-   [xBrowserSync](https://www.xbrowsersync.org/) - _Browser Syncing_
+-   [Stylus](https://add0n.com/stylus.html), [Stylish](https://userstyles.org/) / [2](https://uso.kkx.one/) or [UserStyles](https://userstyles.world/) - _Custom Website Color Schemes_  
+    
+-   [Night Mode](https://mybrowseraddon.com/night-mode.html) - _Adapts Display Color to Time of Day_
+-   [Screen Color Temperature](https://mybrowseraddon.com/screen-color-temperature.html) - _Adjust Screen Color Temperature_
+-   [Font Changer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_webfont_changer) - _WebFont Changer_
+-   [ColorZilla](https://www.colorzilla.com/), [ColorFish](https://ui.vision/colorfish) or [ColorPick](https://vidsbee.com/ColorPick/) - _Color Picker_
+-   [Clippings](https://aecreations.sourceforge.io/clippings/index.php) or [Quick Copy](https://github.com/ramitmittal/quick-copy) - _Clipboard Manager_
+-   [Auto Text Expander](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_auto_text_expander) - _Create Shortcuts to Expand & Replace Text as you Type_
+-   [DontFuckWithPaste](https://github.com/jswanner/DontFuckWithPaste) - _Prevents the Blocking of Pasting into Input Fields_
+-   [Absolute Enable Right Click](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_absolute_enable_right_click) - _Force Enable Right Click_
+-   [Copycat](https://github.com/BlackGlory/Copycat) - _Copy Content in Multiple Formats & Markdowns_
+-   [Copy Selection as Markdown](https://github.com/0x6b/copy-selection-as-markdown) - _Copy Text as Markdown_
+-   [Copy Selected Links](https://gitlab.com/Marnes/copy-selected-links) - _Copy Links from Selected Text_
+-   [CopyFish](https://ocr.space/copyfish) or [Image Reader](https://mybrowseraddon.com/image-reader.html) - _Grab Text from Images_
+-   [BLCKBX](https://www.blckbx.ai/landingPage) - _Grab Text from Images / Videos_
+-   [Text to Image](https://mybrowseraddon.com/text-to-image.html) - _Format & Save Text as a Image_
+-   [Talkie](https://joelpurra.com/projects/talkie/) or [Offline Text to Speech](https://virejdasani.github.io/OfflineTextToSpeech-Extension/) - _Text to Speech_
+-   [Text Link](https://piro.sakura.ne.jp/xul/textlink/index.html.en) - _Make Non-Hyperlinked URL's Clickable_
+-   [Link Alert](https://www.cwesson.net/projects/LinkAlert/) - _Link Type Indicator_
+-   [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) or [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - _Auto Delete Cookies_
+-   [Cookie Manager](https://github.com/laktak/vanilla-chrome), [Cookie Quick Manager](https://github.com/ysard/cookie-quick-manager), [EditThisCookie](https://www.editthiscookie.com/) or [Cookie-Editor](https://cookie-editor.cgagnier.ca/) - _Cookie Manager_
+-   [RSS Feed Readers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_rss_feed_readers) - _Follow RSS Feeds_
+-   [Google Unblocked](https://github.com/Ibit-to/google-unlocked) - _Uncensored Google Search_
+-   [Google search link fix](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_google_search_link_fix) - _Prevent Search Pages from Modifying Result Links_
+-   [Restore Classic Google Icons](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_restore_classic_google_icons)
+-   [Link Gopher](https://sites.google.com/site/linkgopher/) or [CopyLinks++](https://github.com/MichelePezza/CopyLinksplusplus) - _Extract Links from Webpages_
+-   [Link to text Fragment](https://github.com/GoogleChromeLabs/link-to-text-fragment) - _Highlight Certain Text on Webpage_
+-   [Linkpack](https://www.linkpack.io/) - _Save Links to Dropbox_
+-   [Survol](https://survol.me/) - _Preview Links_
+-   [Distil](https://distill.io/) or [Update Scanner](https://sneakypete81.github.io/updatescanner/) - _Page Change Detection / Notification_
+-   [Block Site](https://add0n.com/block-site.html) or [uBlacklist](https://github.com/iorate/uBlacklist) - _Block Websites_
+-   [LeechBlock](https://www.proginosko.com/leechblock), [uBlacklist](https://iorate.github.io/ublacklist/docs), [Forest](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_forest) or [Tomato Clock](https://github.com/samueljun/tomato-clock) - _Site Blocker / Productivity Manager_
+-   [SuperStop](https://github.com/gavinsharp/SuperStop/) - _Stop Active Animations, Videos, JS, WebSocket & XHR_
+-   [Nuke Anything](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_nuke_anything) - _Block/Hide Anything on a Page_  
+    
+-   [NSFW-Filter](https://github.com/nsfw-filter/nsfw-filter) - _Block NSFW Images_
+-   [Block Image Video](https://mybrowseraddon.com/block-image-video.html) - _Block All Images & Videos_
+-   [Offline Mode](https://mybrowseraddon.com/offline-mode.html) - _Disconnect Browser from the Internet_
+-   [Archive / Scrape / Crawl Webpages](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_web_scraping_.2F_archiving_tools) - _Archive, Scrape & Crawl Sites_
+-   [WaybackEverywhere](https://gitlab.com/gkrishnaks/WaybackEverywhere-Firefox) - _Auto Load Archived Versions of Dead Pages_
+-   [Wikiwand](https://www.wikiwand.com/) - _Wikipedia web / Mobile Reader_
+-   [Sticky Notes](https://blog.kumabook.tokyo/stickynotes/index.html) or [Insert Learning](https://insertlearning.com/) - _Browser Notes_
+-   [Draw on Page](https://mybrowseraddon.com/draw-on-page.html) - _Draw on Webpages_
+-   [Page Edit](https://mybrowseraddon.com/page-edit.html) - _Turn Webpages into Editable Documents_
+-   [Save Page WE](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_save_page_we), [SingleFile](https://github.com/gildas-lormeau/SingleFile) or [SingleFileZ](https://github.com/gildas-lormeau/SingleFileZ) - _Save Webpages as HTML_
+-   [Listly](https://www.listly.io/) - _Webpage to Spreadsheet Converter_
+-   [Image Download Extensions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_image_download_extensions)
+-   [Favicon Detector](https://github.com/BlackGlory/favicon-detector) - _Detect Website Favicons_
+-   [behind!](https://github.com/kubuzetto/behind) - _View Background Images_  
+    
+-   [UI.Vision RPA](https://ui.vision/) - _Workflow Automation_  
+    
+-   [AugmentedSteam](https://augmentedsteam.com/) - _Steam Enhancement suite_
+-   [Steam Database](https://steamdb.info/extension/) - _Adds Steam Database Link to Steam Community & Store_
+-   [Gmail Labels as Tabs](https://tuladhar.github.io/gmail-labels-as-tabs/) - _Organize Labels as Gmail Tabs_
+-   [Native HLS](https://github.com/Palethorn/native-adaptive-streaming/) - _Allows HLS & MPEG-Dash native playback_
+-   [The Stream Detector](https://github.com/rowrawer/stream-detector/) - _Detects Playlists & Subtitles used by HLS/DASH/HDS/MSS Streams_
+-   [Happydia](https://github.com/Ademking/happydia) - _Clean Sad / Annoying Media from Social Sites_
+-   [Session Alive](https://github.com/arunelias/session-alive/) - _Keep Website Sessions Alive_
+-   [Caffeine](https://add0n.com/caffeine.html) - _Prevent OS From Sleeping_
+-   [Broken Link Checker](https://add0n.com/broken-link-checker.html) - _Checks Page for Broken Links_
+-   [ViewImage](https://github.com/bijij/ViewImage) or [Make GIS Great Again](https://github.com/devunt/make-gis-great-again) - _Adds Back "View Image" Button to Google Image Search_
+-   [Reverse Image Search](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reverse_image_search) - _Reverse Image Search Extensions / Sites_
+-   [NooBox](https://ainoob.com/en/project/noobox) - _Reverse Image Search, Extract Images, Screenshot & Search_
+-   [GoFullPage](https://gofullpage.com/) - _Full Page Screenshots_
+-   [Screen Recorders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_screen_recorders) - _Record your Screen_
+-   [Booru Slideshow](https://github.com/Chirmaya/BooruSlideshow) - _Make Slideshows Easier to Navigate_
+-   [Textmarker](https://github.com/ufb/Textmarker) - _Text Highlighter_
+-   [Bulk URL Opener](https://bulkurlopener.com/) - _Open Multiple URL's in One Click_
+-   [Forecastfox](http://www.s3blog.org/forecastfox.html) - _Weather Addon_
+-   [Timer](https://eccorem.com/apps/timer.html) - _Timer, Alarm & Stopwatch_
+-   [Dollchan](https://dollchan.net/) - _Imageboard Features_
+-   [XKit](https://github.com/new-xkit/XKit) - _Make Tumblr More Usable_
+-   [Breeze Duo for KDE Plasma](https://github.com/vfrico/firefox-breeze-duo) - _Breeze Theme for better KDE Integration_
+-   [WhatRuns](https://www.whatruns.com/) - _Discover what makes a site run_
+-   [Tab Session Manager](https://tab-session-manager.sienori.com/) or [Session Buddy](https://sessionbuddy.com/) - _Session Manager_
+-   [X-Forwarded-For Header](https://github.com/MisterPhilip/x-forwarded-for) - _Set X-Forwarded-For HTTP Header_
+-   [Peek](https://github.com/corbindavenport/peek) - _Shows Images & Videos Behind Links & Thumbnails_
+-   [Not For You](https://bengrosser.com/projects/not-for-you/) - _Confuse Tik-Toks Recommendation Algorithm_
+-   [FBPurity](https://www.fbpurity.com/) or [Social Fixer](https://socialfixer.com/) - _Facebook Enhancement Extension_
+-   [Facebook Demetricator](https://bengrosser.com/projects/facebook-demetricator/) - _Hide All Facebook Metrics_
+-   [OctoShop](https://www.instok.org/octoshop) - _In-Stock Alerts_

@@ -1,0 +1,419 @@
+## ▷ Reddit Tools
+
+-   **[Reddit Enhancement Suite](https://redditenhancementsuite.com/)** or [RedditMod2](https://greasyfork.org/en/scripts/29724-redditmod2) - _Browser Extension / [Feature List](https://redditenhancementsuite.com/features/)_
+-   **[redditlist](http://redditlist.com/)**, [sayit](https://anvaka.github.io/sayit/), [Vizit](http://redditstuff.github.io/sna/vizit/), [Map of Reddit](https://anvaka.github.io/map-of-reddit), [Subbed](https://www.subbed.org/), [RedditViz](https://rhiever.github.io/redditviz/) or [subreddits](http://subreddits.org/) - _Subreddit Indexes_
+-   [Subreddit Calculator](https://trevor.shinyapps.io/subalgebra/) - _Related Subreddit Calculator_
+-   [/u/SaveVideo](https://www.reddit.com/u/SaveVideo), [Viddit](https://viddit.red/), [SaveMp4](https://savemp4.red/), [RedditSave](https://www.redditsave.com/), [redv.co](https://redv.co/) or [Reddit.tube](https://reddit.tube/) - _Download Reddit Videos_
+-   [saveddit](https://github.com/p-ranav/saveddit) - _Reddit Bulk Media Downloader_
+-   [Reddit Markdown Guide](https://www.reddit.com/wiki/markdown)
+-   [Subreddit Directories](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_subreddit_discovery) - _Explore & Discover Subreddits_
+-   [/r/multihub](https://www.reddit.com/r/multihub/top/?sort=top&t=all) - _Explore Multireddits_
+-   [FMHY Curated Multireddits](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_multireddits) - _Multireddits curated by FMHY members_
+-   [Pushshift Reddit Search](https://www.redditsearch.io/) / [2](https://redditsearch.io/), [Reddit CSE](https://cse.google.com/cse?cx=016649841759798530173:rk2ezolwnw0) or [Better Reddit Search](https://betterredditsearch.web.app/) - _Reddit Search_
+
+-   [Busca](https://github.com/afk-mcz/busca) - _Search Current Tab on Reddit_
+-   [KarmaDecay](http://karmadecay.com/) - _Reddit Reverse Image Search_
+-   [Reddit Alternatives](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_alternatives) - _Alternative Reddit Style Sites_
+-   [lurrker](https://lurrker.com/), [Simpleddit](http://www.simpleddit.com/), [JPF-Reddit](https://jpf-reddit.netlify.app/), [Uforio](http://web.uforio.com/) or [Nuxtit](https://nuxtit.netlify.com/) - _Alt Browsers / Web Clients_
+-   [xeddit](https://www.xeddit.com/), [Reeddit](https://reedditapp.com/), [libreddit](https://libredd.it/) / [2](https://github.com/spikecodes/libreddit), [Saturnus](https://saturnusapp.com/), [Inccogsnoo](https://incogsnoo.com/) or [teddit](https://teddit.net/) / [2](https://codeberg.org/teddit/teddit) - _Reddit Frontends_
+-   [Unedit & Undelete for Reddit](https://greasyfork.org/en/scripts/407466-unedit-and-undelete-for-reddit) - _See Edited & Deleted Reddit Content_
+-   [Reddit-Search](https://camas.github.io/reddit-search/), [Reveddit](https://www.reveddit.com/) or [politicbot](http://politicbot.github.io/) - _View Deleted Reddit Posts_
+-   [ReSavr](https://www.resavr.com/) or [Unreddit](https://github.com/pauldraper/unreddit) - _View Deleted Reddit Comments_
+-   [The-Eye /r/](https://the-eye.eu/r/) - _Subreddit Backups_
+-   [rareddit](https://www.rareddit.com/), [Archive Reddit](https://www.archivereddit.com/), [PushShift Reddit](http://files.pushshift.io/reddit/) or [Reddit Archive](http://www.redditarchive.com/) - _Reddit Post Archive_
+-   [Reddit (Au) Comment Highlights](https://github.com/aesy/reddit-comment-highlights) - _Highlights New Comments_
+-   [rComments](https://github.com/iampueroo/rComments) - _Explore Comments & Replies without Clicking a Post_
+-   [rAger](https://chrome.google.com/webstore/detail/rager/fohlpjahcdbkpcckapphhpahbiajccmj) - _Display Account Age & Karma of Users_
+-   [MassTagger](https://www.masstagger.com/) - _Reddit User Tagger_
+-   [Old Reddit Redirect](https://github.com/tom-james-watson/old-reddit-redirect) - _Always Load Old Reddit Design_
+-   [Reddit Preview](https://redditpreview.com/) - _Preview Reddit Posts_
+-   [custom-top-sort-for-reddit](https://github.com/arvidsandin/custom-top-sort-for-reddit) - _Scroll to Top of Reddit_
+-   [Scroller](https://scrolller.com/) - _Reddit Image Auto-Scroller_
+-   [Reddit Grid](https://redditgrid.com/) - _Reddit Image Grid_
+-   [Redinfinite](https://redinfinite.com/) or [Redditp](https://www.redditp.com/) - _Reddit Image / Video Slideshow_
+-   [ScrollDrop](https://www.scrolldrop.com/) - _Reddit Media Crawler_
+-   [ScrollDit](http://www.scrolldit.com/) - _Alt Reddit View_
+-   [3D for Reddit](https://3dforreddit.com/) - _3D Reddit Browser_
+-   [MSOutlookit](https://pcottle.github.io/MSOutlookit/) or [Routlookit](https://routlookit.com/) - _Outlook-Style Reddit Viewer_
+-   [RDDDeck](https://rdddeck.com/) - _Twitter-Style Reddit Viewer_
+-   [Reddium](https://reddium.vercel.app/) - _Medium-Style Reddit Viewer_
+-   [Unim.Press](https://unim.press/) - _Newspapers-Style Reddit Viewer_
+-   [Unreadit](https://app.mailbrew.com/unreadit) - _Reddit Newsletters_
+-   [reddit shell](https://redditshell.com/) - _Linux shell emulator for Reddit_
+-   [Random Reddit](https://old.reddit.com/random) - _Get Random Reddit Threads / Possibly NSFW_
+-   [Thredd](https://chrome.google.com/webstore/detail/thredd-useful-advice-from/nofhlafikocbioemioehbpadpgjlpeco/related) - _Find Reddit Discussions on WebPage you are Browsing_
+-   [FrontPageMetrics](https://frontpagemetrics.com/) - _Metrics For Reddit_
+-   [Subreddit Sentiment](https://sentranker.com/subreddit-sentiment) - _Subreddit Sentiment Check_
+-   [RedditMetis](https://redditmetis.com/), [Reddit-User-Analyser](https://reddit-user-analyser.netlify.app/), [Redective](https://www.redective.com/) or [redditsfinder](https://github.com/Fitzy1293/redditsfinder) - _Reddit Profile Information_
+-   [Reddit Comment Visualizer](https://roadtolarissa.com/javascript/reddit-comment-visualizer/) - _Vizualize a Users Comments_
+-   [Reddit Comment Search](https://www.redditcommentsearch.com/) - _Search Reddit Comments_
+-   [Reddit Faster](https://github.com/dimaba/redditfaster) or [/r/](https://chrome.google.com/webstore/detail/r/cnccilamloafialmchgfgmbmojdfhmom) - _Open Subreddits Faster_
+-   [Find on Reddit](https://chrome.google.com/webstore/detail/find-on-reddit/jbcdpeekakanklckgooknpbonojhjncm) - _Find Discussions of current URL_
+-   [RedditRepostSleuth](https://github.com/barrycarey/RedditRepostSleuth) - _Repost Detection Bot_
+-   [DelayForReddit](https://www.delayforreddit.com/) - _Reddit Post Scheduler_
+-   [subreddit-scraper](https://github.com/naftulikay/subreddit-scraper) - _Backup Entire Subreddits_
+-   [Reddit Desktop Apps](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_reddit_desktop_apps)
+-   [Reddit Media Downloader](https://github.com/shadowmoose/RedditDownloader) - _Download Media from Reddit_
+-   [Bulk Downloader for Reddit](https://github.com/aliparlakci/bulk-downloader-for-reddit) - _Reddit Bulk Submission Downloader_
+-   [Pushshift.io](https://pushshift.io/) - _Reddit Statistics_
+-   [TrendingWordsofReddit](https://trendingwordsofreddit.herokuapp.com/) - _Reddit Trending Words_
+-   [TitleScraper](https://titlescraper.herokuapp.com/) - _See a Subreddits Most Upvoted Words_
+-   [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia) or [PowerDeleteSuite](https://github.com/j0be/PowerDeleteSuite) - _Reddit Auto Post Delete_
+-   [Reddit CSE](https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30) - _Search Reddit by Topic_
+-   [RedditRaffler](https://www.redditraffler.com/) - _Reddit Raffle System_
+-   [Base64 Decoder](https://openuserjs.org/scripts/DanielBlaze/Reddit_Base64_Decoder) - _Auto Decode Base64 Links in Reddit Reddit_
+-   [Reddit Status](https://www.redditstatus.com/) - _Check Reddit Status_
+-   [RedditOldRedesignedDark](https://github.com/Jorengarenar/RedditOldRedesignedDark) - _Reddit Stylus Dark Theme_
+-   [Reddit Poetry](https://f-a-r-a-z.github.io/reddit-poetry/) - _Reddit Title Poetry Generator_
+-   [/m/subredditthemes](https://www.reddit.com/user/Madbrad200/m/subredditthemes) - _Subreddit Themes_
+
+___
+
+## ▷ Discord Tools
+
+-   **WARNING** - Misuse of Chat Archivers, Deleters, Mods & 3rd Party Clients is against Discords TOS, so use them at your own risk.
+
+___
+
+-   **[Aliucord](https://github.com/Aliucord/Aliucord)** - _Modded Discord Client_
+-   **[BetterDiscord](http://betterdiscord.app/)** - _Modifiable Discord Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_betterdiscord_tools) / [Web Client](https://github.com/Strencher/BdBrowser)_
+-   **[Cumcord](https://cumcord.com/)** - _Discord Client Mod / [Discord](https://discord.gg/kkmM5U7YAt)_
+-   **[GooseMod](https://goosemod.com/)** - _Modifiable Discord Client / [Firefox](https://addons.mozilla.org/addon/goosemod-for-web/) / [Chrome](https://chrome.google.com/webstore/detail/goosemod-for-web/clgkdcccmbjmjdbdgcigpocfkkjeaeld)_
+-   [Discord Servers & Bot Lists](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_server_.2F_bot_lists) - _Discover Servers / Bots_
+-   [DiscordTools](https://discordtools.io/) or [awesome-discord](https://github.com/jacc/awesome-discord) - _Discord Tools_
+-   [Ripcord](https://cancel.fm/ripcord/) - _Lighweight Discord & Slack Client / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_ripcord_tools)_
+-   [ArmCord](https://armcord.smartfridge.space/) - _Lightweight Discord Client / [GitHub](https://github.com/ArmCord/ArmCord)_
+-   [Powercord](https://powercord.dev/) - _Anti-Telemetry Discord / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_powercord_tools)_
+-   [Dark-Discord](https://github.com/snappercord/Dark-Discord) - _Dark Theme for BetterDiscord & Powercord_
+-   [Powerconvert](https://convert.creatable.cafe/) - _Convert BetterDiscord themes to Powercord_
+-   [bdCompat](https://github.com/Juby210/bdCompat) - _Use BD Plugins in Powercord_
+-   [Revert Rebrand](https://betterdiscord.app/theme/Revert%20Rebrand) - _Revert Discord’s Rebrand on BetterDiscord / Powercord / [GitHub](https://github.com/Goose-Nest/GT-RevertRebrand)_
+-   [Discord Portable](https://portapps.io/app/discord-portable/) - _Portable Discord Stable & [PTB PortApps](https://portapps.io/app/discord-ptb-portable/)_
+-   [Unicord](https://github.com/WamWooWam/Unicord) - _Open Source Discord Client / [Discord](https://discord.gg/64g7M5Y)_
+-   [Fosscord](https://github.com/fosscord/fosscord) - _FOSS Discord Client_
+-   [Quarrel](https://github.com/UWPCommunity/Quarrel) - _Universal Windows Platform Discord Client_
+-   [DiscordFlex](https://github.com/ZenithRogue/DiscordFlex) or [WebCord](https://github.com/SpacingBat3/WebCord) - _Discord Web Client / [Discord](https://discord.gg/Vm4CwZx)_
+-   [discord-PWA](https://github.com/NeverDecaf/discord-PWA) - _Discord PWA Client_
+-   [weechat-discord](https://github.com/terminal-discord/weechat-discord) - _WeeChat Discord Plugin_
+-   [litecord](https://gitlab.com/litecord/litecord) - _Reimplementation of Discord's Backend / [Clients](https://gitlab.com/litecord/litecord/-/blob/master/docs/clients.md)_
+-   [Discord-Sandbox](https://github.com/khlam/discord-sandboxed) - _Sandbox Discord Client_
+-   [Overlayed](https://overlayed.dev/) - _Alternate Discord Overlay / [Github](https://github.com/Hacksore/overlayed)_
+-   [crocodile](https://github.com/tbodt/crocodile) - _Discord Client for TempleOS_
+-   [displunger](https://gitlab.com/derpystuff/displunger) - _Run Old Versions of Discord_
+-   [Acrylic](https://github.com/xirreal/Acrylic) - _Glass Discord Theme_
+-   [NotQuiteNitro](https://nqn.blue/) - _Discord Nitro Alternative_
+-   [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis) - _Use Discord Emojis without Nitro_
+-   [Slackmoji](https://github.com/seanprashad/slackmoji) or [emoji.gg](https://emoji.gg/) - _Discord Emojis_
+-   [Emote Manager](https://github.com/EmoteBot/EmoteManager) - _Custom Discord Emoji Manager_
+-   [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/) - _Discord Emoji Downloader_
+-   [Snowsgiving Icons & Emotes](https://cdn.discordapp.com/attachments/689605845058715801/862281806820278292/Snow.zip) - _Snowsgiving Event Icons & Emojis_
+-   [6gk Turtles](https://github.com/6gk/turtles) - _Discord Turtle Emojis_
+-   [Distok](http://distok.top/stickers/), [DiscordFreeStickers](https://github.com/An00nymushun/DiscordFreeStickers) or [FreeCommunityStickers](https://github.com/discord-stickers/FreeCommunityStickers) - _Free Discord Stickers_
+-   [Discord Sticker Viewer](https://sticker-view.vercel.app/) - _View Discord Stickers_
+-   [Discord Image Downloader Go](https://github.com/Seklfreak/discord-image-downloader-go) - _Discord Image Downloader_
+-   [Dispatch](https://www.dispatchbot.ml/) - _Group Discord DMs_
+-   [SimpleDiscordCrypt](https://gitlab.com/An0/SimpleDiscordCrypt) - _Discord Message Encryption_
+-   [LAN Party VPN](https://github.com/gyf304/lpvpn) - _Run VPN on top of Discord_
+-   [DiscordFS](https://github.com/dhrumilp15/discordfs) - _Discord File Search_
+-   [DeepL](https://github.com/aisuzuki/dd-bot) - _Discord Chat Auto Translator_
+-   [TwitFix](https://fxtwitter.com/) or [discord-twitter-bot](https://github.com/NNTin/discord-twitter-bot) - _Fix Discord Twitter Embeds / [GitHub](https://github.com/robinuniverse/twitfix)_
+-   [Get Discord Token](https://greasyfork.org/en/scripts/395741-get-discord-token) - _Retrieve Discord user token_
+-   [PreMiD](https://premid.app/) - _Display internet activity in Discord status / [Github](https://github.com/PreMiD/PreMiD) / [Discord](https://discord.gg/WvfVZ8T)_
+-   [Alternatives to MEE6](https://alternativestomee6.com/) - _[Discord](https://discord.gg/WrbMdWHfNd)_
+-   [Titan Embeds](https://titanembeds.com/) - _Create Discord Chat Embeds_
+-   [Divider Generator](https://jsfiddle.net/Davri/wf49xnob/159/) - _Create Discord Role Dividers Discord Role_
+-   [MonitoRSS](https://monitorss.xyz/), [2](https://github.com/synzen/MonitoRSS-Clone) - _RSS Discord Bot_
+-   [Discord Music Bot](https://github.com/SudhanPlayz/Discord-MusicBot), [discord-music-bot](https://github.com/Androz2091/discord-music-bot), [Music-bot](https://github.com/ZerioDev/Music-bot), [MusicBot](https://github.com/jagrosh/MusicBot), [evobot](https://github.com/eritislami/evobot) or [EarTensifier](https://github.com/Tetracyl/EarTensifier) - _Music Bots_
+-   [Discord-Music-System](https://github.com/RemyK888/discord-music-system) - _Discord Music Module_
+-   [FreeStuff Bot](https://freestuffbot.xyz/) - _Free Games Alert Bot / [GitHub](https://github.com/FreeStuffBot/discord)_
+-   [DiscordChroma](https://github.com/DELUUXE/DiscordChroma) or [ChromaDiscordApp](https://github.com/tgraupmann/ChromaDiscordApp) - _Discord System Lighting Control_
+-   [Permissions Calculator](https://discordapi.com/permissions.html) - _Generate Discord OAuth Invites_
+-   [CloneCord](https://github.com/Rekulous/CloneCord-bot) - _GClone Cloud Storage File Manager in Discord_
+-   [Custom Rich Discord Presence](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_custom_rich_discord_presence) - _Customize Discord Rich Presence_
+-   [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - _Discord Rich Presence Manager_
+-   [FetchCord](https://github.com/MrPotatoBobx/FetchCord) - _OS Discord Rich Presence_
+-   [PlayStationDiscord](https://tustin.dev/PlayStationDiscord/) - _PlayStation Discord Rich Presence_
+-   [Rich Presence U](https://ninstars.itch.io/rpc) - _Nintendo Console Rich Presence_
+-   [Adobe Discord RPC](https://github.com/lolitee/adobe-discord-rpc) - _Adobe Rich Presence_
+-   [iTunes-Discord-RP](https://github.com/kkevinm/iTunes-Discord-RP) - _iTunes Rich Presence_
+-   [Foo\_Discord\_Rich](https://github.com/TheQwertiest/foo_discord_rich) - _FooBar2000 Rich Presence_
+-   [MPV-DiscordRPC](https://github.com/cniw/mpv-discordRPC) - _MPV Rich Presence_
+-   [MPC-DiscordRPC](https://github.com/angeloanan/MPC-DiscordRPC) - _MPC Rich Presence_
+-   [qbittorrent-rp](https://github.com/LockBlock-dev/qbittorrent-rp) - _qBittorrent Rich Presence_
+-   [Discord RPC Client](https://github.com/Metalloriff/discord-rpc-client) - _Create Discord RPCs_
+-   [discord-vscode](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - _VSCode Rich Presence / [GitHub](https://github.com/iCrawl/discord-vscode)_
+-   [Discord.io](https://discord.io/) or [dsc.gg](https://dsc.gg/) - _Create Custom Discord Invites_
+-   [1337x-Bot](https://github.com/brandongallagher1999/1337x-Bot) \- _1337x Discord Bot_
+-   [Chuu](https://github.com/ishwi/Chuu) or [FMcord](https://discord.bots.gg/bots/521041865999515650) - _Last.fm Discord Bot_
+-   [fmbot](https://fmbot.xyz/) - _Discord Voice Chat Scrobbling_
+-   [Craig](https://craig.chat/) - _Voice Channel Recorder / \[Backup([https://craig.chat/home/giarc](https://craig.chat/home/giarc))_
+-   [Forms](https://gitlab.com/rubellite/engineering/forms) - _Google Form Responses as Discord Embeds_
+-   [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter), [Discord History Tracker](https://dht.chylex.com/) / [GitHub](https://github.com/chylex/Discord-History-Tracker), [discord-archiver](https://github.com/nektro/discord-archiver) or [Discord-Channel-Scraper](https://github.com/simon987/Discord-Channel-scraper) - _Archive / Export Discord Chats_
+-   [anti-phishing-bot](https://github.com/Benricheson101/anti-phishing-bot) - _Discord Anti Phishing Bot_
+-   [pullcord](https://github.com/tsudoko/pullcord) - _Discord Archiver_
+-   [discord2sheet-bot](https://github.com/hugonun/discord2sheet-bot) - _Store Messages to Google Sheets_
+-   [Undiscord](https://greasyfork.org/en/scripts/406540-undiscord-delete-all-messages-in-a-discord-channel-or-dm-bulk-deletion), [discord-delete](https://github.com/adversarialtools/discord-delete), [deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages) or [QuickDeleteMessages](https://u.nu/9i9jk) - _Delete Discord Messages / [Warning](https://i.imgur.com/Kt8G430.png)_
+-   [Discord Style](https://www.discord.style/) - _Discord Server Templates_
+-   [Discord Webhooks Guide](https://birdie0.github.io/discord-webhooks-guide/)
+-   [Discord Embed Generators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_discord_embed_generators) - _Generate Embeds via Webhooks_
+-   [Discord-Webhook-Delete](https://github.com/fknMega/Discord-Webhook-Delete) - _Webhook Remover_
+-   [Embed Visualizer](https://embed.discord.website/) - _Embed Visualization Tool_
+-   [Chimera](https://github.com/CedArctic/Chimera) - _System Remote Control_
+-   [Discord IRC](https://github.com/reactiflux/discord-irc) - _Connect Discord & IRC Chats_
+-   [The Cleaner](https://cleaner.leodev.xyz/) - _Remove Spam / Phishing Links_
+-   [Discord Reputation](https://discordrep.com/) - _Prevent Discord Fraud_
+-   [Discord Ban Appeals](https://github.com/patricktechn/discord-ban-appeals) - _Discord Ban Appeal Form_
+-   [Discord Auto Upload](https://github.com/tardisx/discord-auto-upload) - _Auto Upload Screenshots_
+-   [Discord Creation Date Check](https://hugo.moe/discord/discord-id-creation-date.html) - _Check Creation Date of User / Channel / Server / [GitHub](https://github.com/hugonun/discordid2date)_
+-   [DSC.BIO](https://dsc.bio/) - _Make Awesome Custom Discord Bios_
+-   [DateTimeCord](https://datetimecord.rauf.wtf/) - _Discord Date & Time Fomatting Tool_
+-   [Discord Text to Emoji](https://jtprince.com/discord/) - _Emoji Discord Text_
+-   [Automod Config](https://docs.google.com/spreadsheets/d/1pUGVAARMBadmNqQW6cPKhSaT-uYDgQlRBnlQ9TMDXTI/edit#gid=730346323) - _Automod Bot Config_
+-   [Dyno](https://dyno.gg/) - _Change Discord Discriminator w/o Nitro / [How-To](https://i.imgur.com/lHRD42c.png)_
+-   [Discord.ID](https://discord.id/) - _Lookup a Discord User or Bot ID_
+-   [Discord Markdown Cheatsheet](https://pbs.twimg.com/media/EhCUbVnWAAE5tHx?format=png&name=900x900), [2](https://support.discord.com/hc/en-us/articles/210298617-Markdown-Text-101-Chat-Formatting-Bold-Italic-Underline-), [3](https://c.r74n.com/discord/formatting) - _Discord Markdown Guide_
+-   [Discord Avatar Maker](https://discord-avatar-maker.app/) - _Make Discord Avatars_
+
+-   [discordzoom](https://discordzoom.com/en/) - _Enlarge and Download Discord Avatars_
+-   [usrbg](https://github.com/Discord-Custom-Covers/usrbg) or [Pfps.gg](https://pfps.gg/) - _Discord Custom Profile Backgrounds / [Discord](https://discord.gg/2YcxDChxS5)_
+-   [Auto Creative](https://auto.creavite.co/icons) - _Animated Icon & Banner Generator_
+-   [DiscordBannerTester](https://dav1312.github.io/BD/DiscordBannerTester/) - _Test Discord Banners_
+-   [Disgradient](https://disgradient.vanished.rocks/) - _Gradients for Discord Folders, Roles ect._
+-   [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - _Adds Custom CSS Support_
+-   [Discord Status](https://discordstatus.com/) - _Check Discord Status_
+-   [Status](https://discord.gg/Nnttd7EZV4) - _Followable Site Status Channels_
+-   [Discord Testers](https://discord.gg/discord-testers) - _Test Discord Features_
+-   [Guild Counter](https://rauf.wtf/guildcount) - _Check how many servers you're in_
+-   [Preview for Discord](https://dragory.github.io/role-preview-for-discord/) - _Preview Role Colors Role_
+-   [8mbvideo](https://8mb.video/) or [@Snooober's Script](https://redd.it/o7vqm4) - _Encode videos to <8MB_
+-   [Movata](https://movata.cc/) or [Discord Together](https://github.com/RemyK888/discord-together) - _Video Stream Sync / Watch Parties_
+-   [MangaCord](https://top.gg/bot/751148743901970622?tab=overview) - _Read Manga on Discord [Disocrd](https://discord.gg/UtTJcWzCRe)_
+-   [DiskCord](https://github.com/5ut/DiskCord) - _Host Files on External Sites to share via Discord_
+-   [LottieResizer](https://lottieresizer.tech/) - _Lottie Resizer_
+-   [discordcompressor](https://github.com/vladaad/discordcompressor) - _Video Compressor_
+-   [Natron](https://natron.fr/) or [Fusion](https://www.blackmagicdesign.com/ca/products/fusion/) - _Video Compositing_
+-   [Discord Branding](https://discord.com/branding) - _Discord Branding Information Page / [Archive](https://web.archive.org/web/20210513004910/https://discord.com/branding)_
+-   [Discord-Api](https://discord.gg/discord-api) - _Discord API Chat_
+-   [Displace](https://discord.gg/6zEbZeg) or [OwnersHub](https://ownershub.xyz/) - _Discord Community Management Chat_
+-   [Discordia-Development Wiki](https://github.com/Discordia-Development/wiki) - _Discord Moderation Wiki_
+-   [Discord Moderator Academy](https://discord.com/moderation) - _Discord Moderator Guide / [Exam](https://discord.com/moderation/exam)_
+-   [Hammertime](https://hammertime.djdavid98.art/) or [discordtimestampgenerator](https://discordtimestampgenerator.netlify.app/) - _Generate Timestamps_
+-   [SnowStamp](https://pixelatomy.com/snow-stamp/) - _Convert Discord Snowflakes to Timestamps_
+-   [ddpe](https://ddpe.androz2091.fr/) - _Discord Data Package Explorer / [GitHub](https://github.com/Androz2091/discord-data-package-explorer)_
+-   [Discord InfluxDB exporter](https://github.com/terorie/discord-influx) - _Export Discord Metrics to InfluxDB_
+-   [Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining) - _Datamining Discord changes from the JS files_
+-   [Discord Previews](https://discord.gg/QMw7gQGMHj) - _New Discord Builds / Changes_
+-   [Discord.sale](https://discord.sale/), [2](https://builds.discord.sale/) - _Discord Client Build Info_
+-   [discasset](https://github.com/Commandtechno/discasset), [2](https://gitlab.com/derpystuff/discasset) - _Discord Asset Grabber_
+-   [Imagine](https://imagine.vanished.rocks/) - _Imagine Discord Branding Image Creator_
+-   [BetterDiscordPanel](https://github.com/SanjaySunil/BetterDiscordPanel) - _Bot Messaging Panel_
+-   [Figma](https://www.figma.com/community/file/992144378612759941/Discord-Resources) - _Discord Resources / [Desktop](https://www.figma.com/community/file/994323951589690341/Discord-Desktop-UI)_
+-   [Mon2Cam](https://github.com/ShayBox/Mon2Cam) - _Multi-Monitor Discord Screenshare Fix_
+-   [OpenAsar](https://github.com/GooseMod/OpenAsar) - _Alternative app.asar_
+
+___
+
+## ▷ Telegram Tools
+
+-   **[Telegram File Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_file_tools)** - _File Tools for Telegram_
+-   [Telegram Channels](https://telegramchannels.me/), [TG-ME](https://www.tg-me.com/), [tg\_indexs](https://t.me/tg_indexs), [telegram-list](https://github.com/goq/telegram-list) or [Telegramic](https://telegramic.org/) - _Telegram Channel Indexes_
+-   [BotsArchive](https://t.me/BotsArchive), [2](https://github.com/ebertti/awesome-telegram), [3](https://github.com/DenisIzmaylov/awesome-telegram-bots), [4](https://github.com/abdelhai/awesome-bots), [5](https://github.com/stkw0/awesome-telegram-groups), [6](https://github.com/serhii-londar/awesome-telegram), [7](https://github.com/lorien/awesome-telegram-lists), [8](https://telegramic.org/bots/), [9](https://t.me/botlist), [10](https://danyspin97.github.io/TelegramBotsList/), [11](https://www.qwasap.com/en/bots.php), [12](https://github.com/goq/telegram-list) - _Telegram Bot Indexes_
+-   [Lyzem](https://lyzem.com/), [Telemetr](https://telemetr.io/), [gramxly](https://gramxly.com/), [Searchee Bot](https://t.me/SearcheeBot), [xTea](https://xtea.io/ts_en.html) or [TGStat](https://tgstat.com/search) - _Telegram Channel / Bot Search_
+-   [ShellBot](https://github.com/MannyHackers/ShellBot) or [Userge](http://theuserge.tech/) - _Multi-Tool Telegram Bot_
+-   [Telegram Audio Download Bots](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_telegram_audio_download_bots) - _Audio Download Bots_
+-   [GetMediaBot](https://t.me/getmediabot) - _Social Media Video / Picture Download Bot_
+-   [Now Playing](https://t.me/nowplaybot) - _Now Playing Audio Bot_
+-   [Telesco.pe](https://telesco.pe/) - _Telegram Round Video Recorder_
+-   [YeetMeet](https://github.com/1337w0rm/YeetMeet) - _Meeting Auto Join Bot_
+-   [Unigram](https://github.com/UnigramDev/Unigram), [Tok](https://invent.kde.org/network/tok), [TDesktop](https://github.com/Forkgram/tdesktop) or [Kotatogram](https://github.com/kotatogram/kotatogram-desktop) - _Telegram Desktop Client_
+-   [Web.Telegram](https://web.telegram.org/), [2](https://webk.telegram.org/), [3](https://webz.telegram.org/) - _Telegram Web Client_
+-   [TeleWebGram](https://telewebgram.com/) - _Online Telegram Channel Viewer_
+-   [Rose](https://t.me/MissRose_bot) - _Telegram Group Manager_
+-   [TGCF](https://github.com/aahnik/tgcf) - _Telegram Message Forwarding_
+-   [Callmebot](https://www.callmebot.com/) - _Trigger Voice Calls or Chats_
+-   [Skeddy](https://skeddy.me/) - _Telegram Reminder Bot_
+-   [GDUploadBot](https://t.me/gduploadbot) - _Telegram GDrive Upload Bot_
+-   [GoogleDriveManagerBot](https://t.me/GoogleDriveManagerBo) - _Telegram GDrive Manager_
+-   [clonebot](https://github.com/m4mallu/clonebot) - _Clone Media from Chats_
+-   [ChecklyBot](https://t.me/checklybot) - _Checklist Telegram Bot_
+-   [Shieldy Bot](https://t.me/shieldy_bot) - _Spam Protection Bot_
+-   [Telegram Scraper](https://www.telegramscraper.com/) - _Telegram Member / Group Export_
+-   [Telegram Email](https://t.me/etlgr_bot) - _Send / Receive Emails via Telegram_
+-   [Telegago](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) or [TG CSE](https://cse.google.com/cse?cx=006249643689853114236:a3iibfpwexa) - _Telegram CSE_
+-   [ShortUrLinksbot](https://t.me/ShortUrLinksbot) or [ShortUrlBot](https://t.me/ShortUrlBot) - _Telegram Link Shortener Bot_
+-   [TLG.NAME](https://www.tlg.name/) - _Telegram Link Creator_
+-   [URL2IMGBot](https://t.me/URL2IMGBot) - _Takes a screenshot for any URL / Telegram_
+-   [Stickers Cloud](https://stickers.cloud/en) - _Sticker Packs_
+
+___
+
+## ▷ YouTube Tools
+
+-   **[YouTube Video Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_video_downloaders)** - _Download Videos from YouTube_
+-   **[YouTube Audio Downloaders](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_youtube_to_mp3)** - _Download Audio from YouTube_
+-   **[ReturnYoutubeDislikes](https://returnyoutubedislike.com/)** or [yt dislikes viewer](https://github.com/pgamerx/yt-dislikes-viewer) - _View YouTube Dislikes / [Discord](https://discord.com/invite/mYnESY4Md5)_
+-   **[SponsorBlock](https://sponsor.ajay.app/)** - _Skip Sponsored YouTube Ads / [Chromecast](https://github.com/nichobi/sponsorblockcast)_
+-   [DL YouTube Videos without Extensions](https://onehack.us/t/how-to-download-youtube-videos-without-external-tools-or-extensions/)
+-   [YouTube Spammer Purge](https://github.com/ThioJoe/YouTube-Spammer-Purge) - _Delete All YouTube Spam Comments_
+-   [YouTube Encoding Guide](https://support.google.com/youtube/answer/1722171) - _Recommended YouTube Encoding Settings_
+-   [TubeSync](https://github.com/meeb/tubesync) - _Sync YouTube Channels / Playlists to a Media Server_
+-   [Invidious](https://tube.cadence.moe/), [ViewTube](https://viewtube.io/) / [GitHub](https://github.com/ViewTube/viewtube-vue), [Piped](https://github.com/TeamPiped/Piped) or [Youtube-local](https://github.com/user234683/youtube-local) - _YouTube Frontend / [Instances](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md)_
+-   [FreeTube](https://freetubeapp.io/) - _YouTube Frontend / Client_
+-   [Enhancer for YouTube](https://www.mrfdev.com/enhancer-for-youtube), [ImprovedTube](http://improvedtube.com/), [Iridium](https://github.com/ParticleCore/Iridium) or [Magic Actions for YouTube](https://www.mycinema.pro/) - _YouTube Enhancement Addons_
+-   [Focused YouTube](https://github.com/makaroni4/focused_youtube) - _Minimalist YouTube_
+-   [YouTube Redux](https://redd.it/jvg4mf) or [Classic YouTube Design](https://github.com/Cicero-Interactive/Classic-YouTube-Design/) - _Restore Classic YouTube Layout_
+-   [YouTube Real Cinema Mode](https://userstyles.org/styles/122032/youtube-real-cinema-mode) - _Improved YouTube Cinema Mode_
+-   [NSFW Youtube](https://www.nsfwyoutube.com) or [Simple YouTube Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) / [2](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) - _Bypass YouTube Age Restriction_
+-   [YouTube RSS Finder](https://github.com/teddy-gustiaux/youtube-rss-finder) - _Create YouTube RSS Feeds_
+-   [PocketTube](https://yousub.info/) - _YouTube Subscription Manager / Organizer_
+-   [FreshTube](https://porjo.github.io/freshtube/) - _Display Latest Video from Subscriptions_
+-   [Youtube\_Subs\_Bot](https://t.me/youtube_subs_bot) - _Sub to Channels Without Account_
+-   [Channel Crawler](https://channelcrawler.com/eng) - _YouTube Channel Search_
+-   [TubeArchivist](https://www.tubearchivist.com/) - _Archival Youtube Media Server / [GitHub](https://github.com/bbilly1/tubearchivist)_
+-   [Astronaut.io](http://astronaut.io/), [Incognitube](https://www.incognitube.com/) or [Petit tube](http://www.petittube.com/) - _YouTube Vids with -100 views_
+-   [YouTube-Geofind](https://mattw.io/youtube-geofind/location) - _Find Geotagged Videos_
+-   [Default Filename](https://default-filename-tv.neocities.org/) - _Random Default Filename YouTube Videos_
+-   [Tubeup](https://github.com/bibanon/tubeup) - _Archive Youtube Videos and Playlists to Internet Archive_
+-   [Unlisted Videos](https://unlistedvideos.com/) - _Watch / Submit Unlisted YouTube Videos_
+-   [QuiteAPlaylist](https://quiteaplaylist.com/) - _Find Deleted YouTube Videos_
+-   [Hobune](https://hobune.stream/) - _Deleted YouTube Video Archive_
+-   [Recover My Video](https://www.recovermy.video/) - _Recover Titles of Deleted / Private YouTube Videos_
+-   [youtubecrawl](https://archive.org/details/youtubecrawl) - _YouTube Video Archive_
+
+-   [TwitchTheater](https://twitchtheater.tv/), [YouTube Multiplier](http://www.youtubemultiplier.com/) or [ViewSync](https://viewsync.net/) - _Watch Multiple YouTube Videos_
+-   [ElectronPlayer](https://github.com/oscartbeaumont/ElectronPlayer) - _Video Web Player_
+-   [HookTube](https://hooktube.com/) - _View YouTube Videos on Lightweight Page / [Redirect Script](https://greasyfork.org/en/scripts/24163-youtube-unblocker)_
+-   [myTube](https://github.com/keitharm/mytube) - _Bloat Free YouTube Client_
+-   [YouTube\_RSS](https://github.com/SimonDaNinja/youtube_rss) - _YouTube RSS Client_
+-   [Ytfzf](https://github.com/pystardust/ytfzf) - _Watch YouTube via the Terminal_
+-   [YouTube Skip Intro](https://chrome.google.com/webstore/detail/youtube-skip-intro/pkfnooichbjhhoajcoffiggbckfbflbg) - _Skip YouTube Intros_
+-   [SpeechChat](https://speechchat.com/) - _Twitch Text to Speech Client_
+-   [GIFit](https://github.com/Fauntleroy/GIFit) or [gif-machine](https://github.com/lelandbatey/gif-machine) - _YouTube to GIF_
+-   [VideoGlancer](https://videoglancer.com/) - _YouTube to PDF_
+-   [ytcropper](https://ytcropper.com/) or [YTCutter](https://ytcutter.com/) - _YouTube Video Cropper_
+-   [Vid Repeat](https://vidrepeat.com/) - _Loop Youtube Videos_
+-   [YouTube Notes](https://instadeq.com/youtube-notes/) - _YouTube Note Taking Tool_
+-   [yt2pod](https://github.com/frou/yt2pod) - _Create Podcasts from YouTube Channels_
+-   [YouTube Comment Scraper](https://github.com/philbot9/youtube-comment-scraper-cli) - _YouTube Comment Scraping CLI_
+-   [Hadzy](https://hadzy.com/) or [YCF](https://ytcomment.kmcat.uk/) - _YouTube Comment Search_
+-   [Reddit Comments for YouTube](https://github.com/tayloroneill/Reddit-Comments-for-YouTube), [Reddit-Wherever](https://github.com/z0ccc/Reddit-Wherever) or [Karamel](https://chrome.google.com/webstore/detail/karamel-view-reddit-comme/halllmdjninjohpckldgkaolbhgkfnpe?hl=en) - _Replace YouTube Comments with Reddit Comments_
+-   [YouTube Live Comments](https://addons.mozilla.org/en-US/firefox/addon/ytlc/) - _Show YouTube Live Comments during Playback_
+-   [YouTube Search Fixer Suite](https://addons.mozilla.org/en-US/firefox/addon/youtube-suite-search-fixer/) - _Fix Youtube Search & Declutter Homepage_
+-   [youtube-like-dislike-shortcut](https://github.com/avi12/youtube-like-dislike-shortcut) - _Video Like / Dislike Hotkeys_
+-   [YouTube Chronological Order](https://github.com/SleekPanther/youtube-chronological-order) - _Watch YouTube Videos in Chronological Order_
+-   [YouTube Upload Time](https://chrome.google.com/webstore/detail/youtube-upload-time/nenoecmaibjcahoahnmeinahlapheblg) - _Check YouTube Upload Date_
+-   [YTStamps](https://ytstamps.netlify.app/) - _Create Custom Start & End Times_
+-   [Video Speed Controller](https://github.com/codebicycle/videospeed), [YouTube Speed Control](https://github.com/avi12/youtube-speed-control) or [TimerHooker](https://greasyfork.org/en/scripts/372673-%E8%AE%A1%E6%97%B6%E5%99%A8%E6%8E%8C%E6%8E%A7%E8%80%85-%E8%A7%86%E9%A2%91%E5%B9%BF%E5%91%8A%E8%B7%B3%E8%BF%87-%E8%A7%86%E9%A2%91%E5%B9%BF%E5%91%8A%E5%8A%A0%E9%80%9F%E5%99%A8/code) - _Control Speed of YouTube Videos_
+-   [Watch Frame by Frame](http://www.watchframebyframe.com/) - _Watch Videos Frame by Frame_
+-   [Anilyzer](http://anilyzer.com/) - _Watch YouTube Videos in Slow Motion & Frame by Frame_
+-   [YouTube Playlist Search](https://greasyfork.org/en/scripts/14370-youtube-playlist-search) - _Quickly Search YouTube Playlists_
+-   [Playlist Creator for YouTube](https://chrome.google.com/webstore/detail/drag-drop-playlist-creato/aklnkkbopjjemjlkffhamaepagbmblbg) or [Playlists at YouTube](https://playlists.at/youtube/) - _Easily Create Playlists_
+-   [Bookmark It](https://bookmark-it.happydevelopers.co/) - _Bookmark YouTube Videos_
+-   [Blocked](https://watannetwork.com/tools/blocked/) or [YouTube Region Checker](http://polsy.org.uk/stuff/ytrestrict.cgi) - _Youtube Region Restrictions Check_
+-   [YouTube Qualities Size](https://greasyfork.org/en/scripts/404953-youtube-qualities-size) - _Shows YouTube File Sizes_
+-   [Auto Quality for YouTube](https://chrome.google.com/webstore/detail/auto-quality-for-youtube/iaddfgegjgjelgkanamleadckkpnjpjc?hl=en) - _Automatically Switch to desired Quality_
+-   [h264ify](https://github.com/erkserkserks/h264ify) - _Use H.264 on YouTube_
+-   [YTAPI](https://www.ytapi.com/) - _Alt YouTube Player_
+-   [Disable 60fps](https://greasyfork.org/en/scripts/23329-disable-youtube-60-fps-force-30-fps) - _Force 30fps on YouTube_
+-   [YouTube CPU Tamer](https://greasyfork.org/en/scripts/431573-youtube-cpu-tamer-by-animationframe) - _YouTube CPU Optimization_
+-   [Ultrawidify](https://github.com/tamius-han/ultrawidify) - _Fix YouTube Aspect Ratio_
+-   [YouTube Unlimited](https://gitlab.com/Shub_/youtube-unlimited) or [YoutubeNonStop](https://github.com/lawfx/YoutubeNonStop) - _Removes the YouTube: "Video Paused, Continue Watching?"_
+-   [Video Resumer](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_video_resumer) - _Automatically resumes YouTube videos from where you played them last_
+-   [ProgressBar Preserver](https://greasyfork.org/scripts/394512) - _Always Visible Progress Bar YouTube_
+-   [Equalizer for YouTube](https://mybrowseraddon.com/equalizer-for-youtube.html) - _Audio Equalizer_
+-   [songs-to-youtube](https://github.com/7x11x13/songs-to-youtube) - _Upload Audio to Youtube Automatically_
+-   [Unhook](https://unhook.app/), [Less Addictive Youtube](https://github.com/AlexisDrain/Less-Addictive-YouTube) or [YourTube](https://github.com/gurrrung/YourTube) - _Distraction Free YouTube_
+-   [YouTube Watch Time Counter](https://chrome.google.com/webstore/detail/youtube-watch-time-counte/fpoooibdndpjcnoodfionoeakeojdjaj) - _Track Time Spent on YouTube_
+-   [BlockTube](https://github.com/amitbl/blocktube) - _YouTube Content Blocker_
+-   [Clickbait Remover](https://github.com/pietervanheijningen/clickbait-remover-for-youtube) - _Remove YouTube Thumbnails / Title Capitalization_
+-   [Trash Youtube Recommendations](https://chrome.google.com/webstore/detail/trash-youtube-recommendat/dkomodiphnbnnfaokdokdjejjgafoffi) - _Removes YT Recommendations_
+-   [RegretsReporter](https://foundation.mozilla.org/en/campaigns/regrets-reporter/) - _Report Regrettable YouTube Recommendations_
+-   [YT Not Interested Button on Hover](https://greasyfork.org/en/scripts/396936-yt-not-interested-in-one-click) - _Easily Display Not Interested Button_
+-   [RapidTags](https://www.rapidtags.io/) or [CommunityTags](https://www.communitytags.app/) - _YouTube Tag Generator_
+-   [LiveTL](https://kentonishi.github.io/LiveTL/) - _YouTube Live Stream Translator_
+-   [amara](https://amara.org/en/) or [SubtitlesForYoutube](https://github.com/yashagarwal1411/SubtitlesForYoutube) - _Add Subs to Youtube Videos / [Edge](https://microsoftedge.microsoft.com/addons/detail/subtitles-for-youtube/gfjcoflghpdkddjnpegonjhnbngeocfi) / [Chrome](https://chrome.google.com/webstore/detail/subtitles-for-youtube/oanhbddbfkjaphdibnebkklpplclomal)_
+-   [YTSubConverter](https://github.com/arcusmaximus/YTSubConverter) - _Styled YouTube Subtitles_
+-   [Captionz](https://pnlpal.dev/captionz) - _YouTube Captions Viewer / Player_
+-   [Youtube Summarizer](https://share.streamlit.io/iamknownstranger/ytsummary/main) - _YouTube Transcript Summarizer_
+-   [YouTube Data Calc](https://dlogic.lk/projects/youtubedatacalc.php) - _YouTube Data Usage Calculator_
+-   [YouTube Data Tools](https://tools.digitalmethods.net/netvizz/youtube/) or [ytwrk](https://github.com/terorie/ytwrk) - _YouTube Data Extraction_
+-   [Youtube DataViewer](https://citizenevidence.amnestyusa.org/) or [YouTube-MA](https://github.com/CorentinB/YouTube-MA) - _YouTube Video Data Viewer_
+-   [YouTube Thumbnail Grabber](https://boingboing.net/features/getthumbs), [YouTube Screenshot](https://www.youtubescreenshot.com/), [YTI](https://youtubethumbnailimage.com/) or [Get YT Thumbnail](http://www.get-youtube-thumbnail.com/) - _Grab YouTube Thumbnails_
+-   [YouTube-Grab](https://github.com/ArchiveTeam/youtube-grab) or [YouTube Metadata](https://mattw.io/youtube-metadata/) - _YouTube Video Metadata_
+-   [RadiTube](https://extension.raditube.com/) - _View MetaData & Transcripts of Deleted YouTube Videos_
+-   [YouTubeDislikes](https://github.com/moom0o/YouTubeDislikes/) - _YouTube Dislike Archive_
+
+___
+
+## ▷ Twitter Tools
+
+-   **[TweetBeaver](https://tweetbeaver.com/)** or [TwopCharts](https://twopcharts.com/) - _Multiple Twitter Tools_
+-   [/r/Twitter](https://reddit.com/r/Twitter) - _Twitter Subreddit_
+-   [Awesome Twitter Bots](https://github.com/amandeepmittal/awesome-twitter-bots) - _Twitter Bot Index_
+-   [Minimal Twitter](https://www.wang.sh/minimal-twitter) - _Minimal Twitter Themes_
+-   [Tweak New Twitter](https://github.com/insin/tweak-new-twitter) - _Twitter Enhancement Extension_
+-   [Twitonomy](https://www.twitonomy.com/) or [Affinitweet](https://affinitweet.com/) - _Twitter Dashboard / Analytics_
+-   [TweetDeck](https://tweetdeck.twitter.com/) or [Tweeten](https://tweetenapp.com/) - _Twitter Dashboard_
+-   [TweetDuck](https://github.com/chylex/TweetDuck) - _Twitter Desktop Client_
+-   [BackTweets](http://backtweets.com/), [twXplorer](https://twxplorer.knightlab.com/) or [Advanced Search](https://twitter.com/search-advanced?lang=en-gb) - _Search Twitter_
+-   [Twishort](https://twishort.com/) - _Make Longer Tweets_
+-   [Poet.so](https://poet.so/) or [Capture My Tweet](https://capturemytweet.in/) - _Create Twitter Post Images_
+-   [Tweetgen](https://www.tweetgen.com/) - _Create Fake Tweets_
+-   [Chirr App](https://getchirrapp.com/) - _Turn Articles into Twitter Threads / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/chirr-app/) / [Chrome](https://chrome.google.com/webstore/detail/chirr-app/cmbconaimdngicdnbpjnjocbpkdpmfkg)_
+-   [Thread Reader App](https://threadreaderapp.com/) - _Unroll Twitter Threads / Search_
+-   [Treeverse](https://treeverse.app/) - _Twitter Conversation Visualizer_
+-   [Trends Map](https://www.trendsmap.com/), [Twitter Trends](https://twitter-trends.vercel.app/) or [MentionMap](https://mentionmapp.com/) - _Trending Twitter Hashtags / Topics_
+-   [Tweeplers](https://www.tweeplers.com/) - _Trending Twitter Users_
+-   [TweetMap](https://www.omnisci.com/demos/tweetmap) - _Trending Tweet Map_
+-   [OneMillionTweetMap](https://onemilliontweetmap.com/) or [TwitterNano](https://www.twitternano.com/) - _Real-Time Tweet Map_
+-   [Twitter Matrix](https://konard.github.io/twittermatrix/messages.html) - _Matrix animation, but with live tweets_
+
+-   [All My Tweets](https://www.allmytweets.net/connect/) - _View tweets, likes, followers or timeline on one page_
+-   [TwikTwok](https://twiktwok.github.io/) - _Swipe through Twitter videos_
+-   [Klear](https://klear.com/free-tools/find-twitter-influencers) - _Find Influencers_
+-   [Twiangulate](http://twiangulate.com/search/) - _Compare Twitter User Followers_
+-   [FollowerWonk](https://followerwonk.com/) - _Find, Analyze & Optimize Followers_
+-   [HashTagStack](https://www.hashtagstack.com/) - _Hashtag Engagement Tracker_
+-   [Hashait](https://www.hashatit.com/) - _Hashtag Search_
+-   [Buhitter](https://buhitter.com/) - _Twitter Illustration Search_
+-   [SaveTweetVid](https://www.savetweetvid.com/), [GetVideoBot](https://getvideobot.com/), [DownloadTwitterVideo](https://www.downloadtwittervideo.com/), [Savetweetvideo](https://chrome.google.com/webstore/detail/savetweetvid/mklnanllkbjgnnhammmgfnnbnbhnifme), [sssTwitter](https://ssstwitter.com/) or [TWDown](https://twdown.net/) - _Download Twitter Videos_
+-   [accountanalysis](https://accountanalysis.app/), [Allegdly](https://makeadverbsgreatagain.org/allegedly/) or [SocialBearing](https://socialbearing.com/) - _Analyze Twitter Accounts_
+-   [TweeterID](https://tweeterid.com/) - _Twitter User ID & Username Converter_
+-   [NoFT](https://noft.gg/) - _Automatically Block all NFT Profile Pictures / [GitHub](https://github.com/ottomated/noft)_
+-   [Spoonbill](https://spoonbill.io/) - _Track Profile Changes of People you Follow_
+-   [SocialRank](https://socialrank.com/) - _Find Your Most Valuable Followers_
+-   [Twitual](http://twitual.com/) or [DoesFollow](https://doesfollow.com/) - _Follower / Following Analysis_
+-   [Twitter Intelligence](https://github.com/batuhaniskr/twitter-intelligence) - _Python Twitter Tracking & Analysis Tool_
+-   [TweetTopicExplorer](http://tweettopicexplorer.neoformix.com/) - _See a Users Most Common Words_
+-   [Twayback Machine](http://staringispolite.github.io/twayback-machine/) - _View a Users Old Tweets_
+-   [PolitWoops](https://politwoops.com/countries) - _Deleted Tweets from Politicians_
+-   [Hoaxy](https://hoaxy.osome.iu.edu/) - _Twitter Info Spread Data_
+-   [Tweets Analyzer](https://github.com/x0rz/tweets_analyzer) - _Tweet Metadata Scraper_
+-   [GeoSocial Footprint](http://geosocialfootprint.com/) or [tinfoleak](https://tinfoleak.com/) - _View Your Geosocial Footprint_
+-   [TwiMap](https://twimap.com/) - _Find Twitter Users Near You_
+-   [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) or [Invidition](https://codeberg.org/Booteille/Invidition) - _Redirects Twitter to Frontend_
+-   [Yotter](https://yotter.kavin.rocks/) or [nitter](https://nitter.net/) - _Twitter Frontend_
+-   [Social Amnesia](https://github.com/Nick-Gottschlich/Social-Amnesia), [Semiphemeral](https://semiphemeral.com/) or [Forget](https://forget.codl.fr/) - _Twitter Auto Post Delete_
+-   [MegaBlock](https://megablock.xyz/) - _Easily Block Twitter Users & Tweets_
+-   [delete-likes-from-twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - _Delete Twitter Likes / Favorites_
+-   [Unfavinator](http://unfavinator.com/) - _Delete Twitter Favorites_
+-   [TweetDelete](https://tweetdelete.net/) or [TweetEraser](https://www.tweeteraser.com/) - _Delete Twitter Posts in Bulk_
+-   [Tokimeki Unfollow](https://tokimeki-unfollow.glitch.me/), [Who.Unfollowed](https://who.unfollowed.me/) or [Unfollow All](https://chrome.google.com/webstore/detail/twitter-unfollow-all/mgehkbclkipppdjiemnhmnledicalkld) - _Twitter Unfollower_
+-   [Unfollow Monkey](https://unfollow-monkey.com/) - _Unfollower Notifications_
+-   [Fix Twitter Links](https://openuserjs.org/scripts/lucio-martinez/Fix_Twitter_links) - _Unshorten Twitter Feed URLs_
+-   [Twitter Detector](https://github.com/stilliard/Twitter-detector) - _Detect Twitter Link on a Page_
+-   [twitit](https://twitit.gq/) - _Scroll Twitter without Authentication_
+-   [TwitterAudit](https://www.twitteraudit.com/) - _Check How Many of your Followers are Real_
+-   [ReSync](https://revsync.io/) - _Sync Newletter Subs to Existing Tool_
+-   [ListCopy](http://projects.noahliebman.net/listcopy/connect.php) - _Copy Twitter Lists_
+-   [Twlets](http://twlets.com/) - _Export Twitter Data_
+-   [Twint](https://github.com/twintproject/twint) - _Twitter Scraping / OSINT Tool_
+-   [QuestionBox](https://peing.net/en/) - _Anonymous Twitter Question Tool_
+-   [RandomTweet](https://randomtweet.com/) - _Get a Random Tweet from any User_
+-   [EmojiTracker](http://emojitracker.com/) - _Real-Time Twitter Emoji Use_
+-   [Twitter Demetricator](https://bengrosser.com/projects/twitter-demetricator/) - _Remove All Twitter Metrics_
+-   [Cheap Bots, Done Quick](https://cheapbotsdonequick.com/) - _Create Twitter Bots_
+-   [Botometer](https://botometer.osome.iu.edu/) or [BotSlayer](https://osome.iu.edu/tools/botslayer) - _Twitter Bot Check_
+-   [BlackMagic](https://blackmagic.so/) - _Twitter Growth Tool_
+
+___

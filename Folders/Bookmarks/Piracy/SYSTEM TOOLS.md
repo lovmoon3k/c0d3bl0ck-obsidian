@@ -1,0 +1,295 @@
+# ► System Tools
+
+-   **[Windows Piracy Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/pirate-windows)**, [2](https://rentry.co/fwt), [3](https://rentry.co/windows_for_retards)
+-   **[Windows ISO's](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_iso)** - _Download Windows_
+-   **[Windows 10 Activation Guide](https://rentry.co/ActivateWin10)**, [2](https://redd.it/er3fon), [3](https://msguides.com/), [4](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation) - _Active Win 10 / [Discord](https://discord.gg/nWWfBMtBSk)_
+-   **[Windows Activation Scripts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_activation_scripts)** - _Windows / Office Activation_
+-   **[Optimize-Guide](https://rentry.co/mdl-optimize-guide)** - _Optimize Windows / [Video](https://youtu.be/pJTCwSX9Ym8) / [Script](https://github.com/DrEmpiricism/Windows-10-batch-optimizer/blob/master/Win10optimizer.bat), [2](https://github.com/Smozyy/Tweaks-for-Gaming.bat)_
+-   **[Windows Keyboard Shortcuts](https://i.imgur.com/HbgE3nd.png)**, [2](https://i.imgur.com/A36Yd7F.png) / [Course](https://keycombiner.com/), [HotkeyP](https://sourceforge.net/projects/hotkeyp/) or [CheatKeys](https://cheatkeys.com/CheatSheet) - _Keyboard Shortcuts_
+-   [Espanso](https://espanso.org/) - _Typing Shortcuts / [GitHub](https://github.com/federico-terzi/espanso)_
+-   [Windows 10 Debloaters](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_windows_10_debloater)
+-   [Operating System Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_os_emulators) - _Emulate Alternate OS_
+-   [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) / [GitHub](https://github.com/microsoft/PowerToys), [CWCodes](http://cwcodes.net/), [Progress Tools](https://www.progress-tools.x10.mx/), [Guru3D](https://www.guru3d.com/files-categories) or [JoeWare](https://www.joeware.net/freetools/index.htm) - _System Tools_
+-   [PCPartPicker](https://pcpartpicker.com/), [Newegg PC Builder](https://www.newegg.com/tools/custom-pc-builder), [/r/buildapc](https://reddit.com/r/buildapc) or [NZXTBld](https://www.letsbld.com/) - _PC Building Sites / [Discord](https://discord.gg/buildapc)_
+-   [/r/BuildAPCForMe](https://reddit.com/r/BuildAPCForMe) - _PC Building Community_
+-   [/r/SuggestAPC](https://reddit.com/r/SuggestAPC) - _PC Suggestion Community / [Discord](https://discord.gg/TmNgXbwrqJ)_
+-   [/r/SuggestALaptop](https://reddit.com/r/SuggestALaptop), [Jarrod's Tech](https://jarrods.tech/resources/) or [Noteb](https://noteb.com/) - _Laptop Suggestions / [Discord](https://discord.gg/pes68JM)_
+-   [InStockAlert\_DataLover](https://discord.gg/jd6KaBUHG4) or [Fixitfixitfixit](https://discord.gg/gpu) - _GPU / Xbox / PS5 Drop Notifications / [Guide](https://youtu.be/2cBRW9FeQ3A)_
+-   [r/TechSupport](https://www.reddit.com/r/techsupport/), [Windows 10 Forums](https://www.windowsphoneinfo.com/), [MSFN](https://msfn.org/board/), [Hardforum](https://hardforum.com/) or [Notebook Reviews](http://forum.notebookreview.com/) - _Tech Support / [Discord](https://discord.gg/2EDwzWa) / [Wiki](https://rtech.support/books/)_
+-   [GetHuman](http://gethuman.com/) or [ContactFound](https://contactfound.com/) - _Tech Support Numbers_
+-   [Disk Prices](https://diskprices.com/) - _Disk Price Tracker_
+-   [Shucks](https://shucks.top/) - _External Drive Price Tracker_
+-   [Technical City](https://technical.city/) - _Hardware Comparisions_
+-   [CPU Boss](http://cpuboss.com/) - _CPU Comparisons_
+-   [DeviceTests](https://devicetests.com/) - _Multiple Device Tests_
+-   [Click Latencies](https://docs.google.com/spreadsheets/d/1-QI7-LY9Ul_DsVE4ZOqBQxqqqqrdJ04Ite8IY3AQMds/) - _Mouse Click Latency Chart_
+-   [Sensor.fyi](https://sensor.fyi/info/) - _Mouse Guide / Information_
+-   [BTOD](https://www.btod.com/blog/category/buying-guides/) - _Office Chair Buying Guides / Reviews_
+-   [Office License Isn't Genuine](https://web.archive.org/web/20211014003224/https://windowsaddict.ml/office-license-is-not-genuine) - _Fix Office Activation Issues_
+-   [Rufus](https://rufus.ie/), [AIO Boot](https://www.aioboot.com/), [UUP](https://www.microsoft.com/en-us/p/uup-media-creator/9n1z0jxb224x), [MediaCreationTool](https://github.com/AveYo/MediaCreationTool.bat) or [Ventoy](https://www.ventoy.net/en/index.html) / [GitHub](https://github.com/ventoy/Ventoy) - _Create Bootable USB Drives_
+
+-   [Easy2Boot](https://www.easy2boot.com/) - _Boot Directly from ISO's_
+-   [rEFind](http://www.rodsbooks.com/refind/) - _Boot Manager_
+-   [balenaEtcher](https://balena.io/etcher) - _Flash OS Image SD / USB_
+-   [InstallWindowsWithoutUSB](https://github.com/iidanL/InstallWindowsWithoutUSB) - _Install Windows without USB_
+-   [NTLite](https://www.ntlite.com/), [WinReducer](https://www.winreducer.net/) or [MSMG Toolkit](https://msmgtoolkit.in/?i=1) - _Custom ISO Creator_
+-   [CloverBootloader](https://github.com/CloverHackyColor/CloverBootloader/releases) or [EasyBCD](https://neosmart.net/EasyBCD/) - _Bootloader / [Config](https://mackie100projects.altervista.org/)_
+-   [Hiren’s BootCD PE](https://www.hirensbootcd.org/) - _Preinstallation Environment_
+-   [Microsoft Downloads Dump](https://www.heidoc.net/php/myvsdump.php) - _Verify ISO Legitimacy_
+-   [CD Key Reader](http://www.cathonian.com/software/cd-keyreader/) - _Find Key used to Install Windows_
+-   [Windows XP Service Pack 4](https://www.majorgeeks.com/files/details/windows_xp_service_pack_4_unofficial.html) - _Windows XP Unofficial Service Pack 4 / [Drive](https://drive.google.com/drive/folders/1Uh0VYjq1hcd4oY_zNzEqAar1m4NO2uTC?usp=sharing)_
+-   [ChangeWindows](https://www.changewindows.org/timeline) - _Latest Windows Update Info_
+-   [Wu10Man](https://github.com/WereDev/Wu10Man) - _Enable / Disable Windows 10 Updates_
+-   [How-to Disable Windows 10 Updates](https://www.windowscentral.com/how-stop-updates-installing-automatically-windows-10)
+-   [Simplix](https://www.majorgeeks.com/files/details/simplix_updatepack.html) or [Extended Win 7 Updates](https://forums.mydigitallife.net/threads/bypass-windows-7-extended-security-updates-eligibility.80606) - _Extended Windows 7 Updates_
+-   [WSUOffline](https://download.wsusoffline.net/) - _Offline Windows Updates_
+-   [WUReset](https://wureset.com/) - _Reset Windows Update Components_
+-   [OfflineInsiderEnroll](https://github.com/abbodi1406/offlineinsiderenroll) - _Enable Windows Insider without Account_
+-   [XTR Toolbox](https://zeeex.github.io/XTR-Toolbox/) - _Windows Tweaking Tool [GitHub](https://github.com/Zeeex/XTR-Toolbox/)_
+-   [Couleur Tweak Tips](http://discord.gg/CTT) or [TweakCentral](https://tweakcentral.net/) - _Windows Tweaks & Tips_
+-   [Redwan's Guide to Guides](https://docs.google.com/document/d/1hZeQkyDe-M9-zNy2eB-Koc3iOpN5-5KxkpvjQaNK60g/edit) - _Windows Tweaking Guides_
+-   [Awesome Scripts](https://github.com/codePerfectPlus/awesomeScripts), [Batch-Script-Collection](https://github.com/happy05dz/Batch-Script-Collection) or [TechNet-Gallery](https://github.com/MScholtes/TechNet-Gallery) - _Useful System Scripts_
+-   [SmartWindows](https://smartwindows.app/) - _Create / Restore Windows Profiles_
+-   [VirtualBox](https://www.virtualbox.org/) or [VMware Workstation Player](https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html) - _Virtual Machine / [Preinstalled VMS](https://www.osboxes.org/)_
+-   [Virtual PC](https://www.microsoft.com/en-us/download/details.aspx?id=3243) - _Windows XP Virtual Machine_
+-   [Hackintosh-Installer-University](https://github.com/huangyz0918/Hackintosh-Installer-University) - _MacOS Virtual Machine_
+-   [Ryzen Hackintosh](https://github.com/mikigal/ryzen-hackintosh) - _MacOS VM for Ryzen_
+-   [XiaoMi NoteBook Pro Hackintosh](https://github.com/daliansky/XiaoMi-Pro-Hackintosh) - _MacOS VM for XiaoMi NoteBooks_
+-   [VMWare](https://gist.github.com/rkennesson/2c4595bf062aaab387dccf1210accf98) - _Hide Virtual Machine_
+-   [QuickEmu](https://github.com/wimpysworld/quickemu) or [Dexpot](https://www.dexpot.de/) - _Virtual Machine Creator_
+-   [vBoxSysInfoMod](https://github.com/JayMontana36/vBoxSysInfoMod) - _Modify VM System Info_
+-   [Windows Sandbox](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview) or [Sandboxie Plus](https://sandboxie-plus.com/) - _Sandbox Environment_
+-   [WebCatalog](https://webcatalog.app/) - _Turn Sites into Desktop Apps_
+-   [Heimdall](https://heimdall.site/) - _Application Manager_
+-   [GParted](https://gparted.org/) or [AOMEI](https://www.diskpart.com/) - _Partition Manager_
+-   [Gptgen](https://github.com/xorangekiller/gptgen) - _MBR Partition Table to GPT Converter_
+-   [WinCDEmu](https://wincdemu.sysprogs.org/) - _CD/DVD/BD Emulator_
+
+-   [PC Optimization Hub](https://github.com/BoringBoredom/PC-Optimization-Hub) - _PC Optimization Resource Index_
+-   [SpeedyFox](https://crystalidea.com/speedyfox) - _Optimize Program Performance_
+
+-   [CCStopper](https://github.com/E-Soda/CCStopper) - _Stop Background Adobe Apps_
+-   [Adobe Debloater](https://github.com/FlickyOs/Adobe-Debloater) - _Debloat Adobe Apps_
+-   [AATU](https://amdaputuningutility.com/) - _Ryzen Mobile Laptop Tuning Utility_
+-   [NBFC](https://github.com/hirschmann/nbfc) - _Laptop Fan Control_
+-   [GreenWithEnvy](https://gitlab.com/leinardi/gwe) - _Manage & Control NVIDIA Cards_
+-   [nvidiaProfileInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) - _Modify & View Hidden NVIDIA Settings_
+-   [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/) or [NVSlimmer](https://majorgeeks.com/files/details/nvslimmer.html) - _Customize NVIDIA Driver Packages_
+-   [Nvidia-Patch](https://github.com/keylase/nvidia-patch) - _NVENC & NvFBC Patches_
+-   [Disk Usage Analyzers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_disk_usage_analyzers) - _View & Manage Files on Disk_
+-   [CrystalDiskMark](https://crystalmark.info/en/software/crystaldiskmark/) - _Disk Benchmarking Tool_
+-   [Macrium Reflect](https://www.macrium.com/reflectfree) - _System Benchmarking_
+-   [poclmembench](https://github.com/kruzer/poclmembench) - _Memory Benchmark Test_
+-   [Netdata](https://www.netdata.cloud/), [bottom](https://github.com/ClementTsang/bottom), [btop](https://github.com/aristocratos/btop) or [WinBar](http://www.winbar.nl/) - _System Monitor_
+-   [Sysinternals](https://docs.microsoft.com/en-us/sysinternals/) - _Windows System Utilities / [Suite](https://www.microsoft.com/EN-US/p/app/9P7KNL5RWT25)_
+-   [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer), [SystemExplorer](http://systemexplorer.net/) or [Process Hacker](https://processhacker.sourceforge.io/) - _Process Monitor_
+-   [KillProcess](https://www.tgmdev.be/applications/killprocess/killprocess.php) - _Process Killer_
+-   [SpeedFan](http://www.almico.com/speedfan.php) - _Hardware Monitor_
+-   [CoreTemp](https://www.alcpu.com/CoreTemp/) - _Processor Temperature Monitor_
+-   [NotCPUCores](https://github.com/rcmaehl/NotCPUCores) or [Process Lasso](https://bitsum.com/) - _CPU Optimizer_
+-   [ThrottleStop](https://www.techpowerup.com/download/techpowerup-throttlestop/) - _Laptop CPU Monitor / Optimizer_
+-   [MemTest](https://www.memtest.org/) - _Memory Diagnostic Tool_
+-   [Mem Reduct](https://www.henrypp.org/product/memreduct) - _Windows System Memory Cleaner_
+-   [CPUid](https://www.cpuid.com/softwares/cpu-z.html), [winfetch](https://github.com/kiedtl/winfetch) or [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z/) - _System Information Tool_
+-   [HWiNFO](https://www.hwinfo.com/) - _Hardware Analysis, Monitoring and Reporting_
+-   [SMCAMDProcessor](https://github.com/trulyspinach/SMCAMDProcessor) - _AMD Processor Power Management_
+-   [phwmon](https://gitlab.com/o9000/phwmon) - _System Tray Hardware Monitor_
+-   [TrayDir](https://github.com/SamuelSVD/TrayDir) - _System Tray File Manager_
+-   [MinimizeToTray](https://github.com/sandwichdoge/MinimizeToTray) - _Hide Any Windows to Tray_
+-   [QDirStat](https://github.com/shundhammer/qdirstat) - _Directory Statistics_
+-   [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) - _SMBIOS Generator_
+-   [Intel BIOS Guide](https://docs.google.com/document/d/1s43_3YGJIy3zs0ZIksoOmxgrDKnu4ZNhhnXW_NiJZ0I/edit) - _Intel BIOS Settings Explanation_
+-   [How-To Reset BIOS Password](https://www.youtube.com/watch?v=GolIjI2HS5w)
+-   [x64dbg](https://github.com/x64dbg/x64dbg) - _Windows Debugging Tool_
+-   [UptimeFaker](https://github.com/CookiePLMonster/UptimeFaker) - _System Uptime Debugger_
+-   [OllyDbg](https://www.ollydbg.de/) - _Binary Code Analysis Tool_
+-   [WhoCrashed](https://www.resplendence.com/whocrashed) - _Windows Crash Analyzer_
+-   [WhatPulse](https://whatpulse.org/) - _Mouse / Keyboard Usage Analyzer_
+-   [BleachBit](https://www.bleachbit.org/) or [GlarySoft](https://www.glarysoft.com/) - _Free Cache, Delete Cookies, Clear History, Shred Temp Files, ect._
+
+-   [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) - _Startup Program Monitor_
+-   [Remove Hidden Startup Programs](https://www.youtube.com/watch?v=sUXcMaP6wRQ) - _How-to Remove Secret Startup Apps_
+-   [DefaultProgramsEditor](https://defaultprogramseditor.com/) - _File Association Editor_
+-   [RegExp](https://github.com/zodiacon/RegExp) or [Registry-Finder](https://registry-finder.com/) - _Improved Registry Explorer_
+-   [Awesome Regex](https://github.com/aloisdg/awesome-regex) - _Regex Resource Index_
+-   [Regex Hub](https://projects.lukehaas.me/regexhub/) - _Useful Regex Patterns_
+-   [Desktop Management](https://github.com/DeveloperWOW64/deskmgr) - _Improved Computer Management_
+-   [Open Shell](https://open-shell.github.io/Open-Shell-Menu/), [2](https://github.com/Open-Shell/Open-Shell-Menu), [ValliStart](https://github.com/Jax-Core/ValliStart) or [SystemTrayMenu](http://hofknecht.eu/systemtraymenu) / [GitHub](https://github.com/Hofknecht/SystemTrayMenu) - _Improved Start Menu_
+-   [UltraCopier](http://ultracopier.first-world.info/) - _Improved File Copy Dialogs_
+-   [Spencer](https://www.the-sz.com/products/spencer/) or [Fluent-Metro](https://github.com/bonzibudd/Fluent-Metro) - _Classic Start Menu_
+-   [TilelConfier](https://github.com/Jonno12345/TileIconifier) - _Start Menu Icon Tiles_
+-   [Search Deflector](https://github.com/spikespaz/search-deflector) - _Change Cortana Search Engine / Browser_
+-   [Recoll](https://www.lesbonscomptes.com/recoll/) or [AnyTXT](https://anytxt.net/) - _Improved Windows Search / [Site Indexer](https://addons.mozilla.org/en-US/firefox/addon/recoll-we/)_
+-   [Run](https://docs.microsoft.com/en-us/windows/powertoys/run) - _Windows Spotlight Search_
+-   [Killer](https://github.com/ntaraujo/killer) or [TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - _Improved Task Manager / [Discord](https://discord.gg/MKG6qgJ964)_
+-   [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - _Improved System Menu_
+-   [MIUIShade](https://www.deviantart.com/jaxoriginals/art/MIUI-Shade-v2-0-885183361) - _Windows MIUI Dropdown Menu_
+-   [All Tasks Toolbar](https://winaero.com/create-all-tasks-god-mode-toolbar-windows-10/) - _Create All Tasks God Mode Toolbar in Win 10_
+-   [WindowsManager](https://www.eusing.com/WindowManager/WindowManager.htm) or [Compiz Fusion](http://www.compiz-fusion.org/) - _Improved Windows Manager_
+-   [AltDrag](https://stefansundin.github.io/altdrag/) - _Improved Windows Dragging_
+-   [EverythingToolbar](https://github.com/stnkl/EverythingToolbar), [Hyper](https://github.com/hyperts/Hyper), [Awesome](https://github.com/nodgear/Awesome) or [Smart Taskbar](https://github.com/ChanpleCai/SmartTaskbar) - _Improved Taskbar_
+-   [Taskbar Groups](https://github.com/tjackenpacken/taskbar-groups) - _Create Groups in Taskbar_
+-   [uTaskManager](https://www.microsoft.com/en-us/p/utaskmanager/9nhvdhfbxrsv) - _Alternative Taskbar_
+-   [OGHub](https://github.com/Wivon/OGHub) - _Free Up Space in your Taskbar_
+-   [ButteryTaskbar](https://github.com/CrypticButter/ButteryTaskbar/) - _Hide Taskbar When Start Menu is Closed_
+-   [Taskbar Hide](https://www.eusing.com/hidewindows/bosskey.htm) - _Easily Hide / Show Taskbar_
+-   [MediaFlyout](https://github.com/krlvm/MediaFlyout) - _Media Control Taskbar_
+-   [OneLaunch](https://onelaunch.com/) - _Customizable Windows Dock_
+-   [CircleDock](http://circledock.wikidot.com/) - _Circular Dock_
+-   [PowerPlanSwitcher](https://www.microsoft.com/en-us/p/powerplanswitcher/9nblggh556l3) - _Quickly Change Power Schemes_
+-   [Wox](http://www.wox.one/) / [GitHub](https://github.com/Wox-launcher/Wox), [Launchy](https://launchy.net/), [ChaseApp](https://www.chaseapp.io/), [Keypirinha](https://keypirinha.com/), [Ueli](https://ueli.app/) / [GitHub](https://github.com/oliverschwendener/ueli) - _Keystroke Launcher_
+-   [Closemul](https://www.lustark.com/closemul) - _Multi-Purpose Program Frontend_
+-   [rofi](https://github.com/davatorium/rofi) - _Window Switcher & App Launcher_
+-   [Clipboard Managers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_clipboard_managers) - _Manage Copied Text_
+-   [clip](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/clip) - _Redirects Command Output from Command Line to Clipboard_
+-   [The Printliminator](https://github.com/CSS-Tricks/The-Printliminator) - _Print Formatting Tool_
+-   [Cronos](https://crono.app/) - _Desktop Mobile Notifications_
+-   [Almond](https://almond.stanford.edu/) - _Virtual Assistant_
+-   [Rhasspy](https://rhasspy.readthedocs.io/en/latest/) - _Voice Assistant_
+-   [Jarvis](https://acwtechnologies.co.uk/software/jarvis-lite) - _Voice Commands_
+-   [Google Assistant Desktop Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client), [Mycroft](https://mycroft.ai/) or [Home Assistant](https://www.home-assistant.io/) - _Home Assistant Client_
+-   [Cerebro App](https://cerebroapp.com/) or [Zazu App](http://zazuapp.org/) - _System Productivity Booster_
+-   [Econap](https://www.econap.de/) - _Prevent Sleep Mode_
+-   [MoveMouse](https://sites.google.com/a/windandkite.co.uk/movemouse/home) - _Simulate User Activity_
+-   [The Fastest Mouse Clicker for Windows](https://gitlab.com/mashanovedad/The-Fastest-Mouse-Clicker-for-Windows), [Alpha Clicker](https://github.com/robiot/AlphaClicker) or [AutoClicker Bookmarklet](https://autoclicker.glitch.me/) - _Mouse Auto Clicker_
+-   [StrokeIt](https://www.tcbmi.com/strokeit/) or [StrokesPlus](https://www.strokesplus.net/) - _Mouse Gestures_
+-   [EasyContextMenu](https://www.sordum.org/7615/easy-context-menu-v1-6/) or [Context Menu Shell](https://nilesoft.org/) - _Improved Context Menu_
+-   [OpenWith++](https://github.com/stax76/OpenWithPlusPlus) or [Custom Context Menu](https://www.microsoft.com/store/productId/9PC7BZZ28G0X) - _Customize Context Menu_
+-   [X-Mouse Button Control](https://www.highrez.co.uk/downloads/XMouseButtonControl.htm) - _Re-Map Mouse Buttons & Scroll Wheel_
+-   [Mouseable](https://github.com/wirekang/mouseable) - _Replace Mouse with Keyboard_
+-   [MajorGeeks Windows Tweaks](https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html), [TweakUtility](https://github.com/Craftplacer/TweakUtility), [MagicX Toolbox](https://github.com/Ahsan40/MagicX-Toolbox), [Winaero](https://winaero.com/) / [Apps](https://winaero.com/winaero-apps/), [Sophia](https://github.com/farag2/Windows-10-Sophia-Script/) or [Cairo](https://cairoshell.com/) - _Windows Tweaks_
+-   [Revertservice](http://revertservice.com/) - _Default configurations of Windows services_
+-   [Win10 Widgets](https://win10widgets.com/), [BeWidgets](https://www.microsoft.com/en-us/p/bewidgets/9nq07fg50h2q) or [Gadgets Revived](https://gadgetsrevived.com/) - _Widgets for Windows_
+-   [Übersicht](https://tracesof.net/uebersicht/) - _System Command Widgets_
+-   [Command Not Found](https://command-not-found.com/) - _Install Missing Commands_
+-   [Windows-Hacks](https://github.com/LazoCoder/Windows-Hacks) - _Windows API Tricks_
+-   [Auto Night Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - _Windows 10 Auto Dark Mode_
+-   [f.lux](https://justgetflux.com/), [LightBulb](https://github.com/Tyrrrz/LightBulb) or [SunsetScreen](https://www.skytopia.com/software/sunsetscreen/index.htm) - _Adjust Display Color / Temperature_
+-   [Twinkle Tray](https://twinkletray.com/) - _System Tray Brightness Slider_
+-   [Dimmer](https://www.nelsonpires.com/software/dimmer) - _Multi-Monitor Brightness Control_
+-   [Dual Monitor Tool](https://sourceforge.net/projects/dualmonitortool/) - _Dual Monitor Manager_
+-   [ShowDesktopOneMonitor](https://github.com/ruzrobert/ShowDesktopOneMonitor) - _Show Desktop For Only One Monitor_
+-   [ActiveDesktopPlus](https://github.com/torchgm/ActiveDesktopPlus) - _Desktop Program, Video & Webpage Pins / Program Wallpapers_
+-   [Window Grid / Tiling Programs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_window_tiling_programs) - _Window Managers_
+-   [WindowTop](https://windowtop.info/) - _Window Manager_
+-   [Windows Sizer](http://www.brianapps.net/sizer4/) - _Resize & Reposition_
+-   [DeskPins](https://efotinis.neocities.org/deskpins/) - _Always on Top Windows_
+-   [multrin](https://github.com/sentialx/multrin) - _Organize Windows Apps in Tabs_
+-   [WinThumbsPreloader](https://github.com/bruhov/WinThumbsPreloader/) - _Preload Thumbnails in Windows Explorer_
+-   [Klotures](https://gitlab.com/jkushmaul/klotures) - _Desktop Icon Organizer / [Demo](https://gitlab.com/jkushmaul/klotures/raw/master/docs/KloturesDemo.webm)_
+-   [Windows 10's icons dedicated .dll files location](https://pastebin.com/tMiSV6WT)
+-   [QuickLook](https://github.com/QL-Win/QuickLook) - _macOS Quick Look for Windows_
+-   [AutoHotkey](https://www.autohotkey.com/), [MacroRecorder](https://www.macrorecorder.com/) or [AutoIt](https://www.autoitscript.com/) - _Task Automation Scripts / [Script Gen](https://www.ahkgen.com/)_
+-   [Scheduler](https://www.splinterware.com/products/scheduler.html) or [TaskRunner](http://www.keyefficiency.com/) - _System Task Scheduler_
+-   [Nomad](https://www.nomadproject.io/) - _App Deployment Automation / [GitHub](https://github.com/hashicorp/nomad)_
+-   [cygwin](http://cygwin.com/) - _Linux Style Windows Tools_
+-   [WSL2 Distrod](https://github.com/nullpo-head/wsl-distrod) - _Install Distros with Systemd & Auto-Start On_
+-   [Menu11](https://github.com/prateekmedia/Menu11) - _Windows 11 Style Launcher_
+-   [DreyMaR's](https://dreymar.colemak.org/) - _Keyboard Tips and Resources_
+-   [Keyboard University](https://keyboard.university/) or [KDB](http://xahlee.info/kbd/keyboarding.html) - _Mechanical Keyboard Building Guides_
+-   [MechMap](https://www.mechmap.tech/) - _Mechanical Keyboard Recommendations_
+-   [NeatMouse](https://neatdecisions.com/products/neatmouse/) - _Mouse / Keyboard Emulator_
+-   [WinCompose](http://wincompose.info/) - _Windows Special Character Compose Key / [GitHub](https://github.com/samhocevar/wincompose)_
+-   [Plover](https://www.openstenoproject.org/plover/) - _Stenography Engine / [GitHub](https://github.com/openstenoproject/plover) / [Discord](https://discord.gg/NAzMz7C3wq)_
+-   [Deskreen](http://deskreen.com/) - _Turn Any Device into Secondary Screen / [GitHub](https://github.com/pavlobu/deskreen)_
+-   [Mouse Without Borders](https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/) - _Control Multiple PC's via One Mouse / Keyboard_
+-   [JumpShare](https://jumpshare.com/) - _File, Screenshot & Video Sharing_
+-   [Screego](https://app.screego.net/) / [Github](https://github.com/screego/server/) or [here.fm](https://here.fm/) - _Screen Share_
+-   [Remote Desktop Clients](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_remote_desktop_clients) - _Control Desktop Remotely_
+-   [InputDirector](http://www.inputdirector.com/), [Synergy](https://symless.com/synergy), [Barrier](https://github.com/debauchee/barrier) or [ShareMouse](https://www.sharemouse.com/) - _Share Mouse & Keyboard w/ Multiple Computers_
+-   [Nebula](https://github.com/slackhq/nebula) - _Multi-Computer Networking Tool_
+-   [TigerVNC](https://tigervnc.org/) - _VNC Client_
+-   [RDP](https://github.com/yahya-ait-talb/RDP) or [NeverInstall](https://neverinstall.com/en-IN) - _Windows RDP_
+-   [Colab Hacks](https://github.com/PradyumnaKrishna/Colab-Hacks) - _Google RDP_
+-   [Google VPS 25GB Ram](https://colab.research.google.com/drive/16ORaesJ0C9bt6tTOgd90NuwEUDiquofz) - _Free Google Colab VPS on 25GB RAM_
+-   [mRemoteNG](https://mremoteng.org/) - _Remote Connections Manager_
+-   [Netmaker](https://gravitl.com/netmaker) - _Create Virtual Network_
+-   [NirLauncher](https://launcher.nirsoft.net/) - _All Nirsoft Utilities in One App_
+-   [TopGrade](https://github.com/r-darwish/topgrade) - _Package Manager Update Automation_
+-   [Winget](https://github.com/microsoft/winget-cli) or [bget](https://github.com/jahwi/bget) - _Windows Package Manager / [Packages](https://github.com/microsoft/winget-pkgs), [2](https://winget.run/) / [Tools](https://github.com/jdhitsolutions/WingetTools)_
+-   [Chocolatey](https://chocolatey.org/) / [GUI](https://github.com/chocolatey/ChocolateyGUI) or [Ninite](https://ninite.com/) - _Install / Update Multiple Programs at Once_
+-   [Silent Install](https://www.silentinstall.org/) - _Build Multi-Program Installers_
+-   [Revo Uninstaller](https://www.revouninstaller.com/), [Soft Organizer](https://www.dropbox.com/s/5k5pm5f2xwbk7gb/soft-organizer-746-setup.exe), [Geek Uninstaller](https://geekuninstaller.com/), [HiBit Uninstaller](https://hibitsoft.ir/Uninstaller.html) or [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - _Software Uninstallation Tool_
+-   [O&O App Buster](https://www.oo-software.com/en/ooappbuster) - _Remove Pre-Installed Microsoft Apps_
+-   [How to Disable Microsoft Edge](https://ibb.co/dkJ4Tb4)
+-   [Update Notifier](http://cleansofts.org/view/update-notifier.html) - _Scan Computer for Software Updates_
+-   [SnappyDrivers](https://www.snappy-driver-installer.org/) - _Update / Install Missing Drivers_
+-   [Downloadkar](https://downloadkar.ir/) or [Drivers Collection](https://driverscollection.com/) - _Device Drivers / [Translator](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)_
+-   [Display Driver Uninstaller](https://www.wagnardsoft.com/display-driver-uninstaller-ddu-), [2](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) - _Display Driver Removal Tool_
+-   [NotMyFault](https://docs.microsoft.com/en-us/sysinternals/downloads/notmyfault) - _Driver & Hardware Problem Identification Tool_
+-   [Scoop](https://scoop.sh/) - _Command-Line Installer / [GitHub](https://github.com/ScoopInstaller/Scoop)_
+-   [Process Hacker](https://wj32.org/processhacker/forums/viewtopic.php?t=2407) - _Run Processes' as Trusted Installers_
+-   [Device Cleanup Tool](https://m.majorgeeks.com/files/details/device_cleanup_tool.html) - _Remove Non-Present Devices_
+-   [VCRedist](https://github.com/abbodi1406/vcredist) - _AIO Repack for Microsoft Visual C++ Redists_
+-   [UUP dump](https://uupdump.net/) - _Download Windows UUP files_
+
+-   [DLL Downloader](http://www.dlldownloader.com/) or [DLL-Files](https://www.dll-files.com/) - _Download DLL Files for Windows_
+-   [sven dpi](https://www.sven.de/dpi/) - _DPI Calculator_
+-   [Screen Sizes](https://screensiz.es/) - _Screen Size Database_
+-   [Dead.Pixel](https://lcdtech.info/en/tests/dead.pixel.htm) - _Dead Pixel Test_
+-   [JScreenFix](https://www.jscreenfix.com/) or [UDPixel](http://udpix.free.fr/) - _Repair Stuck Pixels_
+-   [EIZO](https://www.eizo.be/monitor-test/) or [LCDTech](https://lcdtech.info/en/tests/) - _Display Performance Tests_
+-   [TestUFO](https://www.testufo.com/) - _Monitor Framerate Test_
+-   [All Black Screen](https://allblackscreen.com/) - _Make Screen Black_
+-   [NVDA](https://www.nvaccess.org/download/) - _Screen Reader / [Github](https://github.com/nvaccess/nvda)_
+-   [Hosts File Editor](https://hostsfileeditor.com/) - _Windows Hosts File Editor_
+-   [StreamPi](https://stream-pi.com/) or [FreeDeck](https://github.com/FreeYourStream/freedeck-hardware) - _ElGato Streamdeck Alternative_
+-   [EarTrumpet](https://eartrumpet.app/), [Volumey](https://github.com/G-Stas/Volumey) or [Volume2](https://github.com/irzyxa/Volume2) - _Improved Volume Mixer_
+
+-   [WinMute](https://github.com/lx-s/WinMute/) - _Automatically Mute PC_
+-   [HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) - _Hide Volume Bar_
+-   [SuperF4](https://stefansundin.github.io/superf4/) - _Kill programs instantly with Ctrl+Alt+F4_
+-   [How-To Crack Windows Passwords](https://samsclass.info/123/proj14/123p12winhash.htm)
+-   [JEnv For Windows](https://github.com/FelixSelter/JEnv-for-Windows) - _Change Java Version_
+-   [Depix](https://github.com/beurtschipper/Depix) - _Recover Passwords from Pixelized Screenshots_
+-   [BIOS-PW](https://bios-pw.org/) - _BIOS Password Recovery for Laptops_
+-   [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - _Terminal Frameworks, Plugins & Resources_
+-   [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701) / [2](https://github.com/microsoft/terminal/), [kitty](https://sw.kovidgoyal.net/kitty/), [Tess](https://github.com/SquitchYT/Tess), [Hyper](https://hyper.is/), [Terminus](https://eugeny.github.io/terminus/) or [MobaXterm](https://mobaxterm.mobatek.net/) - _Alternative Terminal_
+-   [Gradient Terminal](https://github.com/aurora-0025/gradient-terminal) - _Display Terminal Output as Gradient_
+-   [ss64](https://ss64.com/) - _Command Line Reference Index_
+-   [ZimTools](https://zimtools.xyz/) - _Command Line Tool Configs_
+-   [Terminal Icons](https://github.com/devblackops/Terminal-Icons) - _File and Folder Icons in Terminal_
+-   [Alacritty](https://github.com/alacritty/alacritty), [yakuake](https://apps.kde.org/yakuake/), [Fluent Terminal](https://github.com/felixse/FluentTerminal), [Tabby](https://eugeny.github.io/tabby/) or [Terminus](https://github.com/Eugeny/terminus) - _Terminal Emulator_
+-   [XTerm](https://invisible-island.net/xterm/) - _X Window System Terminal Emulator_
+-   [Mintty](http://mintty.github.io/) - _Cygwin Terminal Emulator_
+-   [eDEX-UI](https://github.com/GitSquared/edex-ui) - _Sci-Fi Terminal Emulator / System Monitor_
+-   [termbin](http://termbin.com/) - _Terminal Output Pastebin_
+-   [GetDNote](https://www.getdnote.com/) - _Command Line Notebook_
+-   [cmder](https://cmder.net/) - _Portable Console Emulator for Windows_
+-   [PowerShell](https://github.com/powershell/powershell) - _PC / Mac / Linux PowerShell_
+-   [PowerShdll](https://github.com/p3nt4/PowerShdll) - _Run PowerShell with rundll32_
+-   [SystemNightware](https://github.com/GossiTheDog/SystemNightmare) - _Instant System Command Prompt_
+-   [Starship](https://starship.rs/) - _Cross-Shell Prompt_
+-   [GNU Parallelel](https://www.gnu.org/software/parallel/) - _Execute Commands / Scripts in Parallel using Multiple Computers_
+-   [Resource Hacker](http://www.angusj.com/resourcehacker/) - _Resource Editor_
+-   [grepWin](https://github.com/stefankueng/grepWin) - _Regular expression search and replace_
+-   [ngrep](https://github.com/jpr5/ngrep) - _Specify Expressions to match against Data Payloads of Packets_
+-   [Log Parser Lizard](https://lizard-labs.com/log_parser_lizard.aspx) or [LogDissect](https://github.com/dogoncouch/logdissect/) - _Log Analyzation Utility_
+-   [DependecyWalker](https://www.dependencywalker.com/) or [Dependencies](https://github.com/lucasg/Dependencies) - _View Application Dependencies_
+-   [store.rg](https://store.rg-adguard.net/) - _Microsoft Store Link Generator_
+-   [Add-MicrosoftStore](https://github.com/kkkgo/LTSC-Add-MicrosoftStore) - _Add Microsoft Store to Windows_
+-   [Edgeuninstaller](https://rentry.org/uninstalledge) - _Completely Uninstall Microsoft Edge_
+-   [Windows on Raspberry](https://www.worproject.ml/) - _Windows for Raspberry Pi_
+-   [amogOS](https://github.com/jostroOS/amogOS) - _Raspberry Pi OS_
+-   [Raspberry Pi 4 Bootloader USB Mass Storage Boot Guide](https://jamesachambers.com/new-raspberry-pi-4-bootloader-usb-network-boot-guide/) - _How-to Boot Raspberry Pi from USB_
+-   [WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - _Identify why your PC isn't Windows 11 ready_
+-   [Awesome Windows 11](https://github.com/awesome-windows11/windows11) - _Windows 11 Resource Index_
+-   [Windows 11 Fixer](https://github.com/99natmar99/Windows-11-Fixer) - _Win 11 Improvement Tool_
+-   [Bypass Win11 Requirements](https://github.com/osx86-ijb/bypass-windows11-requirements) - _How-To Bypass Windows 11 System Requirements_
+-   [Windows11Upgrade](https://github.com/coofcookie/Windows11Upgrade) - _Windows 11 System Requirements Bypasser_
+-   [Win11DevBypass](https://github.com/rushiranpise/win11devbypass) - _Bypass Win 11 Dev Channel Restrictions_
+-   [ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - _Windows 11 Powertoys_
+-   [ElevenClock](https://github.com/martinet101/ElevenClock) - _Windows 11 Secondary Monitor Clock_
+-   [Windows11DragAndDropToTaskbarFix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix) - _Windows 11 Drag & Drop Fix_
+-   [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI) - _Modify Windows 11 Taskbar_
+-   [RemoveEdgeWin11](https://rentry.co/RemoveEdgeWin11) - _Remove Edge on Windows 11_
+-   [Boot Failure Troubleshooting Chart](https://i.imgur.com/QsxYtB4.jpg) - _Boot Failure Troubleshooting Guide_
+-   [BetaWiki](https://betawiki.net/wiki/Main_Page) - _Operating System / Software History / [Discord](https://discord.gg/XPz5Zm42tR)_
+-   [ProperTree](https://github.com/corpnewt/ProperTree) - _GUI Plist Editor_
+-   [GetCID](https://www.getcid.info/) - _Obtain Windows Confirmation ID_
+-   [Fliqlo](https://fliqlo.com/screensaver/) or [Flipit](https://github.com/phaselden/FlipIt) - _Clock Screensaver_
+-   [How-To Make Microsoft Activation Server](https://mananapr.github.io/microsoft_activation.html)
+-   [Technical Documentation](https://docs.microsoft.com/en-us/documentation/) - _Microsoft Technical Documentations_
+-   [TeslaMotors](https://github.com/teslamotors) - _Tesla System Repositories_
+
+___

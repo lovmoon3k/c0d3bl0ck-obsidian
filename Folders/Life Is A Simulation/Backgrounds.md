@@ -1,5 +1,5 @@
 # Backgrounds
 
-![[6FD96BEB-3C0D-4A7F-BD1B-3154E8DBC1C9.jpeg]]
-![[B39B8EE0-9EF6-46EF-9D34-5312AC98098A.jpeg]]
-![[3444DA9E-1448-4947-865B-9817B33F1AD2.jpeg]]
+![[digital-city-banner.jpeg]]
+![[digital-background.jpeg]]
+![[man-machine-banner.jpeg]]

@@ -1,4 +1,4 @@
-![[7B277DF9-4EA9-4124-830C-BAB68B5DE81D.png]]
+![[about-me.png]]
 
 ---
 

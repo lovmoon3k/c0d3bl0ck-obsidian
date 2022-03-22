@@ -65,8 +65,9 @@ https://github.com/whoisdsmith
 
 ### Flickr
 
-https://www.flickr.com/photos/132098111@N05
-https://www.flickr.com/photos/133795233@N02
+https://flickr.com/photos/132098111@N05
+https://flickr.com/photos/133795233@N02
+https://flickr.com/photos/195246813@N02
 
 ### Photobucket
 
